@@ -1,0 +1,12 @@
+Blitz Saber
+
+AP Assassin
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAP] [colTitle]50[] Ability Power#[iconMRpen] [colTitle]12[] Magic Penetration#[iconHP] [colTitle]150[] Health##[colTitle]Impact[]: Upon [colStatus]Dashing[] or [colStatus]Blinking[] double your flat [colMRpen]Magic Penetration[] for 5 seconds. Scoring a takedown refounds [colTitle]50%[] of your Non-Ultimate abilities cooldown and cost.##[colAD]Mythic Passive:[] Grants all other [colTitle]Legendary[] items [iconMRpen][colTitle] 8[] Magic Penetration
+
+rule=[i] % Magic Penetration is not affected by Impact
+

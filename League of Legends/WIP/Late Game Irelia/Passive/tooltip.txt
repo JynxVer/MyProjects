@@ -1,0 +1,12 @@
+Ionian Fervor
+
+Passive
+
+
+
+
+
+Irelia gains a stack for 6 seconds when she hits an enemy with an ability (max 4).#She gains [colAS]4% = [colTitle]([colAS]4%-20%[][colTitle][iconXP])[][colAS] Attack Speed[] per stack, and at max stacks her Attacks deal an additional [colMagic]8 = ([colTitle]8-90[][iconXP] [colAD]+30% bonus AD[] [colAP]+ 15% [iconAP][][colMagic]) magic damage[].##Attacking a champion or large monsters refreshes the duration of the stacks. Irelia gains a stack for each champion hit, or if she hits at least one non-champion enemy.
+
+
+
