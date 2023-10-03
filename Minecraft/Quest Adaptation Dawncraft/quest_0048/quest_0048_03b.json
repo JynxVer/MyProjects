@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0048_02",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Guardie"
+    },
+    "description": {
+      "text": "Vuoi aconra imparare? 'eroe'? Bene, se vuoi imparare ad usare il calderone per mescolare? Uccidi 3 guardie dei Villagieri per me. Ho bisognio di sacrificarle perchè... bhe non ti riguarda. Tu, uccidine 3. Quelle silenzione, non uccidere quelle chiacchierone che ti danno da fare. Fallo di soppiatto... se riesci. Non voglio essere sospettato d'esser dietro l'omicidio."
+    }
+  }
+}

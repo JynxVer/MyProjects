@@ -1,0 +1,34 @@
+{
+  "parent": "quest_giver:quest_0048_03b",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Uccidi 3 guardie del Villaggio e torna da me. Non farti vedere. Se ti rovini la reputazione non ti parlerò più... per ovvie ragioni."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Hahaha... che uomo meschino. Ecco, così è come si usa il calderone."
+    }
+  },
+  "tasks": [
+    {
+      "entity": "guardvillagers:guard",
+      "id": "quest_giver:kill",
+      "times": 3
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add slayer level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

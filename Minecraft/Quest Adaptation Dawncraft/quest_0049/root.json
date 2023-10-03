@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao, potresti aiutarmi ad ottenere una $(red)Crema di magma$()? Ne ho bisogni per la mia ricerca medica!"
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "parent": "quest_giver:quest_0046_01b",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Ciao"
+    },
+    "description": {
+      "text": "Sembra tu non abbia ancora completato il tuo contratto, oppure hai solo dimenticato cosa dovevi fare? Uccidi $(red)2 bestie d'argento$()."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ciao"
+    },
+    "description": {
+      "text": "Ben fatto. Posso sentire le forze del male fermare la loro avanzata, almeno per il momento. Ma non si fermeranno mai completamente, parlami dinuovo se vuoi avere un altro contratto."
+    }
+  },
+  "tasks": [ 
+    {
+      "entity": "bloodandmadness:silverbeast",
+      "id": "quest_giver:kill",
+      "times": 2
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

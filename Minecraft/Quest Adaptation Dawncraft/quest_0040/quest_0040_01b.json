@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Un compito impossibile!"
+    },
+    "description": {
+      "text": "Sai che ci sono delle creature enormi chiamate elefanti nelle Savane? Alcuni sono persino riusciti ad addomesticarli. Pensi che potresti riuscirci anche tu?"
+    }
+  }
+}

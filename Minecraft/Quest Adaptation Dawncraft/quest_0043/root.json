@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Salve buonsignore. Che ne diresti di imparare ad usare il banco da cartografia? Ti costerà solo 10 smeraldi!"
+    }
+  }
+}

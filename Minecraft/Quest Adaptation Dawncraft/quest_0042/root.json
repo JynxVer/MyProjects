@@ -1,0 +1,12 @@
+{
+  "reputation": 2,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Se vuoi farti chiamare avventuriero, hai bisognio di una bussola! Crea una $(red)bussola$() e torna da me."
+    }
+  }
+}

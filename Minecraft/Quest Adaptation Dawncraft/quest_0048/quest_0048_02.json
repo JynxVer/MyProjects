@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0048_01",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "HAHAHAHA! CHE IL VELENO PIOVA SU TUTTI NOI!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Bhe, ottimo lavoro. Che eroe che sei. Questo è quello che volevi sentirti dire no?"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "custom:begone_witch/begone_witch"
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement revoke @p only custom:tricked/tricked",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:dirt"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

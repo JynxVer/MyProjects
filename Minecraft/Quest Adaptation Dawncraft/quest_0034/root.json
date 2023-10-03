@@ -1,0 +1,12 @@
+{
+	"reputation": 7,
+	"icon": "minecraft:beef",
+	"start": {
+		"title": {
+			"text": "Salve"
+		},
+		"description": {
+			"text": "Salve buon signiore. Mia moglio mi ha chiesto di cucinare della \"$(yellow)zucca ripiena$()\" e mi imbarazzarebbe troppo dire che non so come cucinarla... Potresti cucinarla tu per me?"
+		}
+	}
+}

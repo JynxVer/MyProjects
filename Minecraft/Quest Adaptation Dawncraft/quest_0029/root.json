@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Yo!"
+    },
+    "description": {
+      "text": "Yo! Potresti cucinare qualcosa per me?"
+    }
+  }
+}

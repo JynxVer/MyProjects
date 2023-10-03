@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 12,
+  "icon": "minecraft:iron_helmet",
+  "start": {
+    "title": {
+      "text": "Grazie per l'aiuto."
+    },
+    "description": {
+      "text": "Grazie per l'aiuto. Il mio altoforno si sta rompendo... Potresti $(red)crearne$() uno nuovo e portarmelo?"
+    }
+  }
+}

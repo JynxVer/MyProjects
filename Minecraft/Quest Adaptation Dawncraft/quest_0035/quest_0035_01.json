@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0035_01b",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Affilare coltelli"
+    },
+    "description": {
+      "text": "Hai i $(red)5 pazzi di ardesia profonda$() yet? Le lame dei miei coltelli sono smussate."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Completato"
+    },
+    "description": {
+      "text": "Ottimo lavoro! Come immaginavo, queste roccie sono sia lisce che ruvide. Grazie mille! Ecco la tua ricompensa."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:deepslate"
+      },
+      "id": "quest_giver:gift",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 2
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

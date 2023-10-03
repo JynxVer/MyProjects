@@ -1,0 +1,45 @@
+{
+  "parent": "quest_giver:quest_0027_01b",
+  "reputation": 20,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "A caccia di spiriti"
+    },
+    "description": {
+      "text": "Ancora non hai le $(red)5 Armature possedute$()? Bhe, fa in fretta! Ahah!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ciao."
+    },
+    "description": {
+      "text": "Haha, ci sei riuscito! Che pazzo che sei, ma mi fa piacere! Ecco, prendi la tua ricompensa, te la sei meritata!"
+    }
+  },
+  "tasks": [ 
+    {
+      "entity": "dannys_expansion:hollow_armor",
+      "id": "quest_giver:kill",
+      "times": 5
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_armorer",
+      "id": "quest_giver:command"
+    }
+  ]
+}

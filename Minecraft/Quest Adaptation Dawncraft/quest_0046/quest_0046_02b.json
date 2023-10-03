@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0046_01",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Stermina!"
+    },
+    "description": {
+      "text": "Ciao dinuovo, il mio prossimo contratto, riguarda seterminare gli orchi che gironzolano nei nostri territori. Questi mostri umanoidi si sono accampati ovunque. Sono sicuro ne avrai incotrato qualcuno. Raccoglio almeno 6 denti di orco, e portameli come prova del tuo lavoro."
+    }
+  }
+}

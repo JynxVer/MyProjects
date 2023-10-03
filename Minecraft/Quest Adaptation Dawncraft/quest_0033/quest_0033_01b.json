@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 7,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Carne esotica"
+    },
+    "description": {
+      "text": "Qui al villaggio di solito abbiamo solo carni normali. Ho sentito che esistono creature chiamate canguri che hanno carne morbida e succulenta, specialmente la loro coda. Potresti portarmene un pezzo? Mi piacerebbe dare un occhio anche alla loro pelliccia."
+    }
+  }
+}

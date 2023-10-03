@@ -1,0 +1,12 @@
+{
+  "reputation": 45,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Hey tu!"
+    },
+    "description": {
+      "text": "Ho sentito di fuorilegge stranieri che di recente sono arrivati in queste terre ed hanno iniziato a saccheggiare villaggi. Sei mi porti un pezzo di carta, posso creare una mappa ed indicarti la loro posizione."
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:quest_0035_02b",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Incendio"
+    },
+    "description": {
+      "text": "Ricordati, le distese cineree si trovano nel nether. Torna da me appena avrai visitato il bioma."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Completato"
+    },
+    "description": {
+      "text": "Affascinante... grazie per avermi descritto quel posto. Ecco la tua ricompensa. Bene, ora va... ho bisogno di prendere una decisione importante."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "custom:scarlet_rot"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 5
+    }
+  ]
+}

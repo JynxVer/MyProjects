@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0035_01",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Incendio"
+    },
+    "description": {
+      "text": "Ah, sei già tornato? Quindi, sei stato nel nether? C'è un bioma chiamato distese cineree nel nether. Va e cerca un castello in quel bioma, ed anche se non lo trovi, torna da me. Voglio almeno sapere come è fatto il bioma stesso."
+    }
+  }
+}

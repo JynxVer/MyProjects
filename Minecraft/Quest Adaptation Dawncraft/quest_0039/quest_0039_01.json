@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 45,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Fuorilegge"
+    },
+    "description": {
+      "text": "Puoi portarmi un pezzo di carta? Così potro creare la mappa."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ciao."
+    },
+    "description": {
+      "text": "Ecco, il gruppo di fuorilegge has stabilito un accampamento nel punto segnato sulla mappa. Va e fa fuori il loro capo."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:cartographer1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p cartographer1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

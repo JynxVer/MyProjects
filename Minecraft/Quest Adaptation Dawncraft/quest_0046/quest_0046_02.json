@@ -1,0 +1,44 @@
+{
+	"parent": "quest_giver:quest_0046_02b",
+	"reputation": 15,
+	"icon": "minecraft:paper",
+	"start": {
+		"title": {
+			"text": "Ciao"
+		},
+		"description": {
+			"text": "Sembra tu non abbia ancora completato il tuo contratto, oppure hai solo dimenticato cosa dovevi fare? Portami $()6 denti di orco$() come prova del tuo lavoro da sterminatore."
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Ciao."
+		},
+		"description": {
+			"text": "Ottimo lavoro. Non ho altri compiti per te al momento. Ricorda che il male prolifera sempre, sta attento."
+		}
+	},
+	"tasks": [{
+		"item": {
+			"item": "orcz:orcteeth"
+		},
+		"id": "quest_giver:gift",
+		"times": 5
+	}],
+	"rewards": [{
+			"item": {
+				"item": "minecraft:emerald"
+			},
+			"id": "quest_giver:item",
+			"times": 2
+		},
+		{
+			"command": "/advancement grant @p only custom:trade_cleric",
+			"id": "quest_giver:command"
+		},
+		{
+			"command": "/give @p potion{display:{Name:'[{\"text\":\"Potion of Healing\",\"italic\":false}]'},CustomPotionEffects:[{Id:6,Duration:1,Amplifier:5}]} 1",
+			"id": "quest_giver:command"
+		}
+	]
+}

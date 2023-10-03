@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao, potresti portarmi una $(red)lacrima di ghast$()? Ne ho bisognio per le mie ricerche mediche."
+    }
+  }
+}

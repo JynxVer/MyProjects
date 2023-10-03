@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0040_01b",
+  "reputation": 15,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Un compito impossibile!"
+    },
+    "description": {
+      "text": "Torna appena avrai addomesticato un elefante... se mai ci riuscirai."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Wow. Ci sei riuscito!. Bene, ho sentito che a queste bestie piacciono i fiori di acacia. Prendi e non chiedermi perchè li ho!"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "alexsmobs:alexsmobs/tame_elephant"
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "alexsmobs:acacia_blossom"
+      },
+      "id": "quest_giver:item",
+      "times": 10
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

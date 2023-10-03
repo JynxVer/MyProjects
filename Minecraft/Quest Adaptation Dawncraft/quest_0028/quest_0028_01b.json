@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Fantastico!"
+    },
+    "description": {
+      "text": "Dicono esista un bioma in questa dimensione in cui vapori emanano da acqua termale bollente ed una magica nebbia copre l'intera montagnia! Coraggioso avventuriero, se mai trovassi tale posto, per favore torna qui e dimmi se è davvero così!"
+    }
+  }
+}

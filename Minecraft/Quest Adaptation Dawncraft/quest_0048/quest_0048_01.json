@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 25,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Ho bisognio del tuo aiuto per ottenere un cappello da strega, uno qualsiasi andrà benissimo. Puoi ottenerlo di rado uccidendo streghe."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "AH, FOLLE! ORA DISTRUGGERO' QUESTO VILLAGGIO! MI SACRIFICO VOLENTIERI SE QUESTO SIGNIFICA DISTRUGGERE QUESTO MALEDETTO VILLAGGIO!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "biomemakeover:witch_hat"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:tricked/tricked",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/execute as @a[advancements={custom:tricked/tricked=true},sort=nearest,limit=1] run function witch:start_witch_raid",
+      "id": "quest_giver:command"
+    }
+  ]
+}

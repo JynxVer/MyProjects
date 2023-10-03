@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0040_01",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Mappa"
+    },
+    "description": {
+      "text": "Vuoi un'altra sfida eh? Bene, allora caccia ed uccidi quelle bestie rettiliane chiamate coccodrilli, e portami il loro scuto. Puoi trovare dei coccodrilli nei biomi paludosi. Sta attento, sono estremamente pericolosi."
+    }
+  }
+}

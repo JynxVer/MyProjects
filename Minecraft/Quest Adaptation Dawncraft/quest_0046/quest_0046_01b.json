@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 15,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Stermina!"
+    },
+    "description": {
+      "text": "C'è un nuovo male che si sta manifestando in questa dimensione. Sono dei mostri metà umani, metà bestia, li chiamiamo $(red)bestie d'argento$(). Puoi incontrarli di notte. Uccidi 2 di queste maledette creature e poi torna da me."
+    }
+  }
+}

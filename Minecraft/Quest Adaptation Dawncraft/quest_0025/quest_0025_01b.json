@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 6,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Compito da Sterminatore"
+    },
+    "description": {
+      "text": "Hai mai visto una creature che è metà aquila e metà cavallo? Bhe, si chiamano Grifoni. Queste bestie sacceggiano le mie apicolture e terrorizzano la mia famiglia. Puoi aiutarmi ad uccidere il Grifone che vive vicino al villaggio e portarmi la sua piuma? Non preoccuparti, ti pagherò profumatamente... So che fronteggiare una tale creatura è rischioso."
+    }
+  }
+}

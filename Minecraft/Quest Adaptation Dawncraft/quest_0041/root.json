@@ -1,0 +1,12 @@
+{
+  "reputation": 8,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Sembri un ottimo cuoco. Potresti cucinare una cosa per me? C'è un piatto chiamato $(red)Hamburger$(), sai come prepararlo?"
+    }
+  }
+}

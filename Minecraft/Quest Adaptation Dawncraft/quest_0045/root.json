@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao, potresi aiutarmi ad ottenere $(red)5 verghe di blaze$()? Puoi trovare i blaze nel nether!"
+    }
+  }
+}

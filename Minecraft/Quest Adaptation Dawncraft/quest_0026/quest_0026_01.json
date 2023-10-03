@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Lo sapevi che...?"
+    },
+    "description": {
+      "text": "Lo sapevi che ci sono nuove facce in questa dimensione? Alcuni dicono che questi uomini indossano armature favolose ed usano spade indistruttibili. Ho avuto la possibilità di dare un occhio alle loro armature... sone meravigliose, ma non molto pratiche. Un martello con un colpo be assesstato puo penetrarle facilmente!"
+    }
+  }
+}

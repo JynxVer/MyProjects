@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0032_01b",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Un piccolo aiuto"
+    },
+    "description": {
+      "text": "Hey, hai il coltello? Ricordati, deve esser fatto di ferro."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Fatto"
+    },
+    "description": {
+      "text": "Ben fatto! Un coltello nuovo di zecca, grazie!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "farmersdelight:iron_knife"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_butcher",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "quest_giver:quest_0028_01b",
+  "reputation": 0,
+  "icon": "minecraft:oak_sapling",
+  "start": {
+    "title": {
+      "text": "Montagna nebbiosa"
+    },
+    "description": {
+      "text": "Yo, hai trovato il bioma $(red)Montagna nebbiosa $()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Quindi è così..."
+    },
+    "description": {
+      "text": "Quindi è così... è un vero peccato onestamente. Pensavo ci fossero addirittura dei draghi li... Oh bhe, almeno adesso so che era solo un mito. Grazie!"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "custom:magical_spring"
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/advancement grant @p only custom:trade_armorer",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    }
+  ]
+}

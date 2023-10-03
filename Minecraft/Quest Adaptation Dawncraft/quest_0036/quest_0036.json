@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Una discussione amichevole"
+    },
+    "description": {
+      "text": "Sapevi che il tagliere può essere usato con un coltello per tagliare gli ingredienti in pezzi più piccoli? Vale la pena sperimentare e provare a tagliare varie cose, e non solo cibo, ma anche altre risorse, persino l'equipaggiamento!"
+    }
+  }
+}

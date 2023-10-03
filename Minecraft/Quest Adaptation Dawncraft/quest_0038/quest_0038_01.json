@@ -1,0 +1,44 @@
+{
+  "parent": "quest_giver:quest_0038_01b",
+  "reputation": 13,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Esplorazione!"
+    },
+    "description": {
+      "text": "Torna da me appena avrai trovato i seguenti biomi: Le badlands bianche, le sabbie antiche, ed i picchi vulcanici."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Completato"
+    },
+    "description": {
+      "text": "Grazie per le descrizioni dettagliate. Penso che riuscirò a disegnare per bene grazie alle tue descrizioni. Ecco la tua ricompensa."
+    }
+  },
+  "tasks": [
+	{
+	   "id": "afptweaks:advancement",
+	   "advancement": "custom:traveller"
+	}
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 6
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_cartographer",
+      "id": "quest_giver:command"
+    }
+  ]
+}

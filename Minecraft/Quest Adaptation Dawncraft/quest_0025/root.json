@@ -1,0 +1,12 @@
+{
+  "reputation": 12,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Compito da Sterminatore"
+    },
+    "description": {
+      "text": "Avventuriero... saresti interessato in una missione da sterminatore?"
+    }
+  }
+}

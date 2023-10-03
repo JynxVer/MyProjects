@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Affilare coltelli"
+    },
+    "description": {
+      "text": "Ho bisognio di pietre per affilare, per i miei coltelli. Ho sentito di una materiale che si trova in profondità che si chiama ardesia profonda, che dovrebbe fare proprio al caso mio. Potresti portarmi  $(red)3 pezzi di ardesia profonda$()?"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 20,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "A caccia di spiriti"
+    },
+    "description": {
+      "text": "Gli spiriti appaiono in questa dimensione in molte forme. A volte infestano, oggetti, spade e persino armature! Prova a reperire $(red)5 armature vuote...o possedute$(), non so come tu voglia chiamarle , portamele e ti ricompenserò. Che ne dici?"
+    }
+  }
+}

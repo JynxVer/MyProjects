@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Un piccolo aiuto"
+    },
+    "description": {
+      "text": "Buon uomo! Potresti portarmi un $(red)Coltello di ferro$()? Il mio si è appena rotto..."
+    }
+  }
+}

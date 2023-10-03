@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Sblocca il banco da cartografia"
+    },
+    "description": {
+      "text": "Oh... hm, va bene. Portami 15 smeraldi e ti insegnerò ad usarlo."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ecco a te."
+    },
+    "description": {
+      "text": "Non farti spaventare da tutta l'attrezzatura, sono sicuro che imparerai in un baleno!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

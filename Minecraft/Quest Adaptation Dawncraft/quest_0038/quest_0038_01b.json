@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Esplorazione!"
+    },
+    "description": {
+      "text": "Praticamente, ho bisogno di sapare come sono fatti i biomi, così da poterli meglio disegnare sulla mappa. Siccome sei un avventuriero, credo tu sia perfetto per questo compito! Nello specifico ho bisono di informazioni su questi 3 biomi: Le badlands bianche, le sabbie antiche, ed i picchi vulcanici."
+    }
+  }
+}

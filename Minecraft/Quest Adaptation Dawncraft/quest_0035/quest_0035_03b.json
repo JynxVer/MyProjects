@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0035_02b",
+  "reputation": 35,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Spada"
+    },
+    "description": {
+      "text": "Curioso eh? Bene, la verità è... Mio fratello era un mercante ambulante, molto particolare. Gli piaceva viaggiare nel nether... pur sapendo dei suoi pericoli. Un giorno è partito... e non è più tornato. Ha lasciato una lettera che dice che sarebbe andato in un castello che si trova nelle distese cineree. Sarei voluto andare di persona, per scoprire se è morto o meno, ma ho paura di rimanerci stecchito. Sono passati mesi dall'ultima volta che l'ho visto, voglio solo sapere cosa gli è accaduto... Aveva un artefatto chiamato $(light_blue)'Spada gelante'$(). Pensi di poter trovare quel castello e portarmi la spada?"
+    }
+  }
+}

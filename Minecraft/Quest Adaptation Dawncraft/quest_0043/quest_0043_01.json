@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Portami 10 smeraldi e ti insegnerò ad usare il banco da cartografia."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ecco a te."
+    },
+    "description": {
+      "text": "Non farti spaventare da tutto il materiale, sono sicuro che imparerai in un baleno!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

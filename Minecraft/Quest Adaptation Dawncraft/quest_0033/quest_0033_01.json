@@ -1,0 +1,50 @@
+{
+  "parent": "quest_giver:quest_0033_01b",
+  "reputation": 7,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Carne esitica"
+    },
+    "description": {
+      "text": "Hai$(red) la carne e pelliccia di canguro$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Molte grazie!"
+    },
+    "description": {
+      "text": "Ahh... quindi questo è il sapore del canguro. Una carne molto tenera, nulla da ridire... La pelliccia non è un granchè però. Comunque, sarà un ottimo trofeo... Grazie avventuriero. Non ho molto da darti... Ecco, prendi queste bistecche di manzo. Carne fresca eh!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "alexsmobs:kangaroo_meat"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    },
+    {
+      "item": {
+        "item": "alexsmobs:kangaroo_hide"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:beef"
+      },
+      "id": "quest_giver:item",
+      "times": 4
+    },
+    {
+      "command": "/addreputation reputation:villager @p 2",
+      "id": "quest_giver:command"
+    }
+  ]
+}

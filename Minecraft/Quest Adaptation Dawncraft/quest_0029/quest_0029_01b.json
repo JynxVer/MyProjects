@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:iron_chestplate",
+  "start": {
+    "title": {
+      "text": "Zuppa di funghi!"
+    },
+    "description": {
+      "text": "Grazie! Voglio solo assaggiare una ciotola di deliziosa $(red)Zuppa di funghi$()."
+    }
+  }
+}
