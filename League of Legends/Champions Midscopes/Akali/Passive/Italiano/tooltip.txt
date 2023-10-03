@@ -1,0 +1,9 @@
+Marchio dell'assassina
+
+Passiva
+
+
+
+
+
+Quando Akali colpisce un campione nemico con un'abilità, rivela un'area ad anello intorno al bersaglio per 4 secondi ed ottiene [colTitle] 25% = (25% - 50%[iconXP]) Velocità di movimento[] verso i bordi dell'anello.#Attraversare i bordi dell'anello aumenta la gittata del prossimo attacco di Akali di [colTitle]100 Unità[] ed infiligge#[colMagic]71 = ([colTitle]35 - 150 [colAD]+50% [iconAD] [colAP]+60% [iconAP][colMagic])[] ulteriori[colMagic] danni magici.[] Se Akali colpisce un campione nemico con l'attacco, la sua [colAS]Rigenerazione Energia[] è aumentata di [colTitle]([colAS]1-10[][iconXP][colTitle])[][colAS] Energia[] per secondo, per i prossimi 3 secondi##[colRules][i]Quando attraversa i bordi dell'anello, Akali ottine [colTitle]Velocità di Movimento[][i][colRules] verso i nemici

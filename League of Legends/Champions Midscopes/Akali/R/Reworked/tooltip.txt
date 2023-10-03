@@ -1,0 +1,41 @@
+[[R] Swift Cuts
+
+100s[iconCooldown]
+
+
+
+50 Energy
+
+Akali dashes in a target direction, dealing [colMagic]96 = ([colTitle]60[] [colAD]+50% [iconAD] [colAP]+30%[iconAP][colMagic]) magic damage[].##Damaging a Champion with [colTitle]Assassin's Mark[] let's Akali [colARpen]Cast[] this ability independently from its Cooldown for the next 3 seconds, instead expending [colAS]50 Energy[]. These activations will not trigger [colTitle]Assassin's Mark[] when a Champion is hit##Hitting a Champion with a Dash increases the damage of the next one by [colTitle]25%[], stacking up to double the original amount
+
+rule=[i]The Dash distance and speed is significantly reduced when dashing away from enemies.
+
+rule=[i]The Damage increase resets once out of Champion combat
+
+rule=[i]If both the cooldown and Assassin's Mark activations are available, the cooldown will be expended first
+
+grid=3
+Cooldown
+!100
+80
+60
+
+grid=3
+Recasts Energy Cost
+!50
+40
+30
+
+grid=3
+Base damage
+!60
+100
+140
+
+grid=3
+Max damage
+!120
+200
+280
+
+

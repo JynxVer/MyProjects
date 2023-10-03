@@ -1,0 +1,35 @@
+[[Q] Impeto delle Lame
+
+11s [iconCooldown]
+
+
+
+20 Mana
+
+Irelia scatta verso un nemico, infilggendo [colPhys]47 = ([colTitle]5[] [colAD]+ 60% [iconAD][colPhys]) danni fisici[] e recuperando [colHeal] 6 = ([colAD]9% [iconAD][][colHeal]) Salute[]. Se il nemico muore o [colAS]Vacilla[] il tempo di ricarica è azzerato.##Questa abilità [colLS]Giustizia[] i minion con o sotto i [colPhys]102 = [colTitle](5 + 55 - 258[iconXP][] [colAD]+60% [iconAD][colTitle])[] punti salute
+
+rule=[i]Questa abilità applica effetti sul colpo
+
+grid=5
+Danni
+!5
+25
+45
+65
+85
+
+grid=5
+Ricarica
+!11
+10
+9
+8
+7
+
+grid=5
+Rapporto guarigione
+!9%
+10%
+11%
+12%
+13%

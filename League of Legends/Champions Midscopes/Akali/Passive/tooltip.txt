@@ -1,0 +1,9 @@
+Assassin's Mark
+
+Passive
+
+
+
+
+
+When Akali hits an enemy champion with an Ability, she reveals a ring around them for 4 seconds and gains [colTitle] 25% = (25% - 50%[iconXP]) Move Speed[] towards the ring. Crossing the ring causes Akali's next basic attack to gain [colTitle]100 Extra Range[] and deal an addtional [colMagic]71 = ([colTitle]35 - 150 [colAD]+50% [iconAD] [colAP]+60% [iconAP][colMagic]) magic damage.[] If the empowered attack hits a Champion, Akali gains [colTitle] ([][colAS]1-10[][colTitle][iconXP])[] addtional [colAS]Energy[] regeneration per second, for the next 3 seconds##[colRules][i]Once Akali crosses the ring she gains the [colTitle]Move Speed[][i][colRules] towards enemies

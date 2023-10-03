@@ -1,0 +1,33 @@
+[[E] Shuriken Flip
+
+16s[iconCooldown]
+
+
+
+30 Energy
+
+[colTitle]Active:[] Akali flips backwards as she throws a shuriken, marking the first enemy hit or [colTitle]Twilight Shroud[] for 5 seconds.[] Akali can [colARpen]Recast[] this once to dash to the marked target, dealing [colMagic]76 = ([colTitle]40 [colAD]+50% [iconAD] [colAP]+50% [iconAP][colMagic]) magic damage[].##[colTitle]Passive:[] Akali gains [colMRpen]4%[] [colTitle]= ([colMRpen]4%[] [colTitle]+ [colMagic]2% per [colAP]100[iconAP][colTitle])[] [colMRpen]magic penetration[] against the last marked Enemy Champion
+
+grid=5
+Cooldown
+!16
+14.5
+13
+11.5
+10
+
+grid=5
+Base Damage
+!40
+70
+100
+130
+160
+
+grid=5
+Base Penetration
+!4%
+6%
+8%
+10%
+12%

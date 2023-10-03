@@ -1,0 +1,31 @@
+[[R] Perfect Exectuion
+
+80s[iconCooldown]
+
+
+
+
+
+Akali vaults over an enemy champion, dealing [colMagic]76 = ([colTitle]40[] [colAD]+50% [iconAD] [colAP]+30%[iconAP][colMagic]) magic damage[] to all enemies in her path.##Akali can [colARpen]Recast[] after 2.5 seconds to execute a piercing thrust, dashing and dealing# [colMagic]54 = ([colTitle]40[] [colAD]+20% [iconAD] [colAP]+30% [iconAP][colMagic])[] to [colMagic]130 = ([colTitle]80[] [colAD]+70% [iconAD] [colAP]+75% [iconAP][colMagic]) magic damage[] based on missing health.##The [colARpen]Recast[] dash length is significatly decreased when dashing away from enemies. 
+
+rule=[i]Deals max damage to targets below 30% Health.
+
+grid=3
+Cooldown
+!80s
+65s
+50s
+
+grid=3
+Base damage
+!40
+100
+160
+
+grid=3
+Max damage
+!80
+220
+380
+
+

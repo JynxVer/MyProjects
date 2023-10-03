@@ -1,0 +1,34 @@
+[[E] Flawless Duet
+
+16s [iconCooldown]
+
+
+
+50 Mana
+
+Irelia throws a blade into the ground and can [colTitle]Recast[] for up to 3.5 seconds. This blade is a valid target for[colTitle] Bladesurge[], and Irelia is able to dash to it. Doing so will End the ability early and disable the [colTitle]Recast[]. Dashing to the blade will not refound[colTitle] Bladesurge[] cooldown.##[colCastType][b]Recast:[] Irelia throws a second blade, then they fly towards each other[colStatus] Stunning[] for 0.75 seconds and dealing[colMagic] 80 = ([colTitle]80[]+[colAP]80%[iconAP][colMagic]) magic Damage[]. Champions and large jungle monsters become[colAS] Unsteady[] for 5 seconds.
+
+rule=[i]Irelia will automatically[colTitle] Recast[] at her location after 3.5 seconds, if [colTitle] Recast[] is available.
+
+rule=[i]
+
+grid=5
+Damage
+!80
+125
+170
+215
+260
+
+grid=5
+Cooldown
+!16
+15
+14
+13
+12
+
+
+
+
+

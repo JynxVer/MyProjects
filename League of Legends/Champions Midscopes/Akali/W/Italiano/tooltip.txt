@@ -1,0 +1,23 @@
+[[W] Velo di Penombra
+
+20s[iconCooldown]
+
+
+
+
+
+Akali detona una bomba fumogena, che genera una cortina di fumo dalla durata di [colTitle]5[] secondi.##Metre il Velo è attivo la rigenerazione [colAS]Energia[] aggiuntiva data da [colTitle]Marchio dell'Assassina[] è raddoppiata, inoltre, danneggiare un campione con [colTitle]Marchio dell'Assassina[] estende la durata di questa abilità di 0.3 secondi##Metre è all'interno del fumo, Akali è [colStatus]Invisibile[]. Quando Akali è [colStatus]Invisibile[] ottiene [colTitle]15% Velocità di Movimento.
+
+rule=[i]Le unità [colStatus]Invisibili[][i] non possono essere rivelate, se non dalle torri o da Visione magica
+
+rule=[i]La ricarica di questa abilità inizia appena la cortina di fumo è dissolta
+
+rule=[i]La [colTitle]Velocità di Movimento[][colRules] aggiuntiva viene persa quando Akali è visibile e riottenuta una volta tornata [colStatus]Invisibile[colRules].
+
+grid=5
+Aumento durata per Colpo
+!0.3s
+0.35s
+0.40s
+0.45s
+0.50s

@@ -1,0 +1,41 @@
+[[R] Tagli Celeri
+
+100s[iconCooldown]
+
+
+
+50 Energia
+
+Akali scatta nella direzione selezionata, infliggendo [colMagic]96 = ([colTitle]60[] [colAD]+50% [iconAD] [colAP]+30%[iconAP][colMagic]) danni magici[].##Danneggiare un campione con [colTitle]Marchio dell'Assassina[] da ad Akali la possiblità di [colARpen]Riattivare[] questa abilità indipendentemente dal suo tempo di Ricarica, utilizzando invece [colAS]50 Energia[]. Utilizzare l'abilità in questo modo non attiverà [colTitle]Marchio dell'Assassina[] quando Akali colpisce un campione##Colpire un campione con uno scatto aumenta il danno di quelli successivi del [colTitle]25%[], fino ad un massimo uguale al doppio del danno base
+
+rule=[i]La lungezza e velocità di scatto sono diminuite notevolmente quando Akali scatta via da un nemico.
+
+rule=[i]Il danno aumentato per ogni scatto viene azzerato se Akali abbandona il combattimento con campioni
+
+rule=[i]Se l'abilità è carica e l'attivazione con Marchio dell'Assassina è anch'essa disponibile, la Carica verrà consumata prima
+
+grid=3
+Ricarica
+!100
+80
+60
+
+grid=3
+Costo in Energia
+!50
+40
+30
+
+grid=3
+Danni Base
+!60
+100
+140
+
+grid=3
+Danni Massimi
+!120
+200
+280
+
+

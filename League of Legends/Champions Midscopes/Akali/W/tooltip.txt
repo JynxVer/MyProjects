@@ -1,0 +1,23 @@
+[[W] Twilight Shroud
+
+20s[iconCooldown]
+
+
+
+
+
+Akali drops a smoke bomb, unleashing a spreading cover of smoke lasting [colTitle]5[] seconds.##While the shroud is active [colTitle]Assassin's Mark[] bonus [colAS]Energy[] regeneration is doubled, additionally, damaging Champions with [colTitle]Assassin's Mark[] extends this ability duration by 0.3 seconds.##While inside the smoke, Akali is [colStatus]Invisible[]. While [colStatus]Invisible[] she gains [colTitle]15% Move Speed.
+
+rule=[i][colStatus]Invisible[] units cannot be revealed except by turrets or True Sight
+
+rule=[i]This ability cooldown starts when this ability ends
+
+rule=[i]The bonus [colTitle]Move Speed[][colRules] is lost when becoming visible by any means, and regained once back into [colStatus]Invisibility[colRules].
+
+grid=5
+Bonus Duration per Hit
+!0.3s
+0.35s
+0.40s
+0.45s
+0.50s

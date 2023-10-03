@@ -1,0 +1,35 @@
+[[Q] Attacco a cinque punte
+
+1.5s [iconCooldown]
+
+
+
+110 Energia
+
+Akali lancia i kunai in un arco, infiliggendo [colMagic]56 = ([colTitle]20 [colAD]+50% [iconAD] [colAP]+40% [iconAP][colMagic]) danni magici[]. Colpire campioni nemici con sulla punta invece infligge [colMagic]68 = ([colTitle]25 [colAD]+60% [iconAD] [colAP]+60% [iconAP][colMagic]) danni magici.
+
+rule=[i]Questa abilità infligge 75% di danni in più quando solo Minion o mostri di jungla vengono colpiti.
+
+grid=5
+Costo in Energia
+!110
+100
+90
+80
+70
+
+grid=5
+Danno Base
+!20
+40
+60
+80
+100
+
+grid=5
+Base Damage sulla Punta
+!25
+55
+85
+115
+145

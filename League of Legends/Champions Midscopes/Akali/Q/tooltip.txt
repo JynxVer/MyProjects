@@ -1,0 +1,35 @@
+[[Q] Five Point Strike
+
+1.5s [iconCooldown]
+
+
+
+110 Energy
+
+Akali slings kunai in an arc, dealing [colMagic]56 = ([colTitle]20 [colAD]+50% [iconAD] [colAP]+40% [iconAP][colMagic]) magic damage[]. Enemy Champions hit with the tip will instead take [colMagic]68 = ([colTitle]25 [colAD]+60% [iconAD] [colAP]+60% [iconAP][colMagic]) magic damage.
+
+rule=[i]This ability deals 75% increased damage when only hitting Minions or Jungle Monsters.
+
+grid=5
+Energy Cost
+!110
+100
+90
+80
+70
+
+grid=5
+Base Damage
+!20
+40
+60
+80
+100
+
+grid=5
+Tip Base Damage
+!25
+55
+85
+115
+145

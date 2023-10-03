@@ -1,0 +1,33 @@
+[[E] Capriola shuriken
+
+16s[iconCooldown]
+
+
+
+30 Energia
+
+[colTitle]Attiva:[] Akali fa una capriola all'indietro e lancia uno shuriken, marchiando il primo nemico colpito o [colTitle]Velo di Penombra[] per 5 secondi.[] Akali può [colARpen]Riattivare[] questa abilità per scattare verso il nemico marchiato, infiliggendo [colMagic]76 = ([colTitle]40 [colAD]+50% [iconAD] [colAP]+50% [iconAP][colMagic]) danni magici[].##[colTitle]Passiva:[] Akali ottiene [colMRpen]4%[] [colTitle]= ([colMRpen]4%[] [colTitle]+ [colMagic]2% per [colAP]100[iconAP][colTitle])[] [colMRpen]penetrazione magica[] contro l'ultimo campione nemico marchiato
+
+grid=5
+Ricarica
+!16
+14.5
+13
+11.5
+10
+
+grid=5
+Danni Base
+!40
+70
+100
+130
+160
+
+grid=5
+Penetrazione Base
+!4%
+6%
+8%
+10%
+12%

@@ -1,0 +1,35 @@
+[[Q] Bladesurge
+
+11s [iconCooldown]
+
+
+
+20 Mana
+
+Irelia dashes to an enemy, dealing [colPhys]47 = ([colTitle]5[] [colAD]+ 60% [iconAD][colPhys]) Physical damage[] and restoring [colHeal] 6 = ([colAD]9% [iconAD][][colHeal]) Health[] to herself. If the enemy dies or was [colAS]Unsteady[] the Cooldown is refreshed.##This ability [colLS]Executes[] minions at or below [colPhys]102 = [colTitle](5 + 55 - 258[iconXP][] [colAD]+60% [iconAD][colTitle])[] Health
+
+rule=[i]This ability applies On-Hit effects
+
+grid=5
+Damage
+!5
+25
+45
+65
+85
+
+grid=5
+Cooldown
+!11
+10
+9
+8
+7
+
+grid=5
+Heal Ratio
+!9%
+10%
+11%
+12%
+13%
