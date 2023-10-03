@@ -1,0 +1,1 @@
+Now allowed to post here due to size, complete File with voice can be downloaded here: https://www.mediafire.com/file/dzbm86y6yzhlys8/Db.rar/file
