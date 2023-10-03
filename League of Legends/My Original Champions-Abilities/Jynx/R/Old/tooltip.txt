@@ -1,0 +1,27 @@
+[[R] Material Annihilation
+
+0s [iconCooldown]
+
+
+
+10/s Energy
+
+Violet empowers his swords, the empowerment drains [colAS]10 Energy[] per second, and makes it so hitting an enemy with an Ability or Attack marks them for [colTitle]Annihilation[]. Each hit, including the first, increases the [colTitle]Annihilation[] threshold by [colTrue]0.6%[] = ([colTitle]0.5%[] + [colAS]0.2% [iconKindredStack][]) of their [colTrue]Max Health[] per hit.##[colTitle]Recast:[] Violet ends this ability and attempts to [colTrue]Annihilate[] all affected targets. If the target current Health is lower than their [colTitle]Annihilation[] threshold, they are [colTrue]Annihilated[], otherwise, they are deal that damage as [colPhys]Physical Damage[].##[colTitle]Annihilation[] is a more powerful [colTrue]execute[], as it cannot be avoided in any way.##[colTitle]Amorphous Unifield:[] The [colTitle]Annihilation[] threshold increase per hit is doubled.
+
+rule=[i]The Annihilation threshold is unique to each enemy, and entirely based on how many times Violet has hit them whilst Material Annihilation was active
+
+rule=[i]This ability will end automatically if Violet runs out of energy
+
+rule=[i]
+
+grid=3
+Energy per second 
+!10/s
+8/s
+6/s
+
+grid=3
+Annihilation increase per hit
+!0.5%
+1%
+1.5%

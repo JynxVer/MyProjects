@@ -1,0 +1,51 @@
+[[Q] H Swing / LR Jab
+
+6s [iconCooldown]
+
+
+
+10 Fatigue
+
+[colTitle]H Swing:[] Alieri slashes horizontally, dealing[colPhys] 65 = []([colTitle]15[] + [colAD]50% [iconAD][]) [colPhys]Physical Damage[] to all enemies hit.##[colTitle]LR Jab:[] Alieri alternates between a Left Jab and a Right Jab, both dealing[colPhys] 110 = []([colTitle]30[] + [colAD]80% [iconAD][])[colPhys] Physical Damage[] to the target enemy. The two Jabs count as different abilities, and both activate [colTitle]Seamless Fighter
+
+rule=[i]
+
+grid=5
+Cooldown
+!6
+5.5
+5
+4.5
+4
+
+grid=5
+H Swing Base Damage
+!15
+30
+45
+60
+75
+
+grid=5
+H Swing AD Ratio
+!50%
+55%
+60%
+65%
+70%
+
+grid=5
+LR Jab Base Damage
+!30
+60
+90
+120
+150
+
+grid=5
+LR Jab AD Ratio
+!80%
+85%
+90%
+95%
+100%

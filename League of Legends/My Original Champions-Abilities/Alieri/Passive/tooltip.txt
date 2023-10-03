@@ -1,0 +1,9 @@
+Passive
+
+
+
+
+
+
+
+[colTitle]Wargoddes Stance:[] All of Alieri's abilities have no cost, instead [colStatus]Fatiguing[] her. (Max 100). Alieri will not be able to use Abilities if she's too [colStatus]fatigued.#[colStatus]Fatigue[] slowly decays overtime, doing so at an increased rate when out of Champion combat.##[colTitle]Seamless Fighter:[] Each time Alieri uses an Ability different from the previous one, her next Basic Attack gains an additional effect depending on the ability used, if the Attack connects she also rids off[colStatus] 5 Fatigue[].##  [colGold]H Swing[]/[colGold]LR Jab[]: Alieri Gut punches the target, [colStatus]stunning[] them for 0.5 Seconds.[]#  [colGold]V Swing[]/[colGold]Full Hook[]: Alieri uppercuts the target, briefily sending them [colStatus]Airborne[]#  [colGold]D Swing[]/[colGold]Push Kick[]: Targeting an enemy recently affected by [colStatus]Crowd Control[], with a basic attack,[] will first [colStatus] #  Blink[] Alieri to their location. This effect is permanently active during[colLeech] Divinity Unleashed[], but has a 3 seconds #  per target cooldown##[colTitle][i]D Swing/Push Kick[] [colRules] and [colLeech] Divinity Unleashed[colRules] own empowerment will not remove the previous basic Attack empowerment given by [colTitle]Seamless Fighter[], [colRules]instead the previous Empowerment will be applied to the basic Attack activating the blink#[colRules]Blink range scales lineraly with level from 500 up to 1000 units.

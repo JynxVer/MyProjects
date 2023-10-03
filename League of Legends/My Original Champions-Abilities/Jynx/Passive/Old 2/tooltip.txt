@@ -1,0 +1,9 @@
+Passive
+
+
+
+
+
+
+
+[colTitle]Unclasped Ambivalence:[] All of Violet's Abilities only scale with [colAS]Unbound Matter[] [iconKindredStack] and his Auto Attacks instead deal ([colTitle]70%-100%[][iconXP]) total[colAS] Unbound Matter [iconKindredStack][colAD] Physical Damage[].##[colAS]Unbound Matter [iconKindredStack][] is gained from [iconAD]/[iconAP] at a Ratio of: [colAD]1[iconAD][]=[colStat]1.6[][iconKindredStack] and [colAP]1[][iconAP]=[colStat]1[] [iconKindredStack]. Additionally Violet converts all forms of [iconMRpen] into [iconARpen] at [colTitle]66%[] effectiveness##[colTitle]Undefinable Vigor:[] Violet's abilties cost [colAS]Energy[] to cast instead of [colMP]Mana[]. As such he converts all [colMP]Mana[] gained from Items and Runes into Addtional [colAS]Energy[]. Gaining [colAS]1 [colAS]Energy[] per [colMP]12 [colMP]Mana[]#His abilties are also unaffected by [colAH]Ability Haste [iconAH][], instead he gains [colAS]1/s[] bonus [colAS]Energy[] Regen, per [colAH]20 [iconAH][].##Current [colAS]Unbound Matter[] = [colAS]50 [iconKindredStack][] ([colAD]20[iconAD]/[colAP]18[][iconAP])#Current additional [colAS]Energy[] = [colAS]25[] ([colMP]300[] [iconMP])#Current bonus [colAS]Regen[] = [colAS]1/s[] ([colTitle]20[iconAH][])##[i][colRules]Flat magic Penetration is converted into Lethality. Percentage Magic penetration is converted into its Armor Penetration counterpart.

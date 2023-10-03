@@ -1,0 +1,47 @@
+[[E] D Swing / Push Kick
+
+6s [iconCooldown]
+
+
+
+10 Fatigue
+
+[colTitle]D Swing:[] Alieri Dashes a short distance and gains [colShield] 50 = []([colTitle]10[] + [colAD]40%[] [iconAD]) [colShield]Shield[], then slashes Diagonally with her Greatsword, creating a diagonal wave that [colStatus]Knocks Aside[] all enemies hit.##[colTitle]Push Kick:[] Alieri blinks in the target direction, gaining a [colShield] 70 = []([colTitle]20[] + [colAD]50%[] [iconAD]) [colShield]Shield[], she then Kicks creating a Shockwave that [colStatus]Knocks Back[] everything it hits. If the Kick is performed directly on an enemy, the [colStatus]Knockback[] effect is significatly increased.
+
+rule=[i]The Shield does not decay, but cannot stack with itself. Re-Using the ability while the Shield is still holding, will simply replenish the shield to its current maximum amount.
+
+rule=[i][colTitle]D Swing[] and [colTitle]Push Kick[] do not count as the same shield, as such, they do stack.
+
+rule=[i]
+
+grid=5
+D Swing Base Shield
+!10
+30
+50
+70
+90
+
+grid=5
+D Swing Shield AD Ratio
+!40%
+45%
+50%
+55%
+60%
+
+grid=5
+Push Kick Base Shield
+!20
+50
+80
+110
+140
+
+grid=5
+Push Kick Shield AD Ratio
+!70%
+75%
+80%
+85%
+90%

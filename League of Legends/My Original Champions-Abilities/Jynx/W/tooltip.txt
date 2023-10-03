@@ -1,0 +1,33 @@
+[[W] Amorphous Unifield
+
+0s [iconCooldown]
+
+
+
+60 + 5/s Energy
+
+Jynx creates a Unifield of unstable matter at the target location. The Unifield empowers him or his abilities ##The Initial size of the Unifield is [colStatus]115[] = ([colTitle]100[] + [colAS]30%[] [iconKindredStack]) units. Its size can be increased by 300 Units each second, up to 800 units total, by holding down the Hotkey for longer.##For every 100 Units beyond the starting size, the Unifield will increase it's [colAS]Energy/s[] cost, by [colAS]1/s[]##[colTitle]Recast:[] End the ability.##[colTitle]Amorphous Unifield:[] While inside the field, Jynx's [colAS] [iconAS] Attack Speed[] is increased by [colAS]20%[] per [colAS]100[] [iconKindredStack]
+
+rule=[i]The Unifield size indicates its radius.
+
+rule=[i]The Unifield will automatically disappear if Jynx runs out of Energy.
+
+rule=[i]With Normal cast the Unifield will increase in size automatically until it is placed.
+
+rule=[i]
+
+grid=5
+Static Cast Cost
+!60
+55
+50
+45
+40
+
+grid=5
+Energy Cost per second
+!5/s
+4.5/s
+4/s
+3.5/s
+3/s

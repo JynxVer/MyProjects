@@ -1,0 +1,37 @@
+[[E] Dematerializing Translocation
+
+0s [iconCooldown]
+
+
+
+40 Energy
+
+Jynx dematerializes himself and reappears behind the target, if the target is an enemy he Slashes at them twice with his swords, dealing [colPhys]40 = [][colTitle](15 + [colAS]50%[iconKindredStack][colTitle]) [colPhys]Physical Damage[] total. Using the ability multiple times on the same target within [colTitle]8[] seconds increases it's cost by [colTitle]50%[] each time.##[colTitle]Amorphous Unifield:[] Jynx can target anyone inside the Unifield, regardless of this ability own range.
+
+rule=[i]This ability applies On-Hit and On-Attack effects.
+
+rule=[i]
+
+grid=5
+Physical Damage
+!15
+25
+35
+45
+55
+
+grid=5
+Energy Cost
+!40
+35
+30
+25
+20
+
+grid=5
+Cost Increase
+!50%
+40%
+30%
+20%
+10%

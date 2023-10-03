@@ -1,0 +1,39 @@
+[[R] Divinity Unleashed
+
+3s [iconCooldown]
+
+
+
+10/s Fatigue
+
+[colTitle]Divine Being:[] This ability can be leveled up at level [colAF]4[], [colAF]9[] and [colAF]14[]. ##Alieri ascends into her Divine form ridding off [colStatus]30 Fatigue[] and unleashing a Shockwave around herself that [colStatus]Knocks Back[] all enemies hit. In this form Alieri fights without her Greatsword, losing [colTitle]50[colStatus] Attack Range[], and swapping out her default Abilities in favor of [colTitle]LR Jab[], [colTitle]Full Hook[] and [colTitle]Push Kick[].#She additionally gains [colAD]30% bonus [iconAD][] and [colMS]20% Move Speed[] towards enemies.##[colTitle]Recast:[] Alieri returns to her normal form, ending this ability##This ability has a 3s[iconCooldown] static cooldown and can be activated as long as Alieri isn't completely [colStatus]fatigued[], but the Shockwave and [colStatus]Fatigue[] removal effect will only trigget once. Refreshing only after Alieri has either Died, or been outside of Champion Combat for 15 Seconds.
+
+rule=[i]This ability will automatically end if Alieri is too Fatigued
+
+rule=[i]
+
+grid=3
+Fatigue per second
+!10/s
+9/s
+8/s
+
+grid=3
+Bonus Attack Damage
+!30%
+35%
+40%
+
+grid=3
+Move Speed
+!20%
+30%
+40%
+
+grid=3
+Fatigue removal
+!30
+40
+50
+
+

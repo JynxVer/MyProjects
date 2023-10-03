@@ -1,0 +1,43 @@
+[[W] V Swing / Full Hook
+
+6s [iconCooldown]
+
+
+
+10 Fatigue
+
+[colTitle]V Swing:[] Alieri slashes Vertically with her Greatsword, dealing[colPhys] 50 = []([colTitle]10[] + [colAD]40% [iconAD][]) [colPhys]Physical Damage[] to all enemies hit, the slash also creates a vertical Wave that travels a short distance and deals the same damage to everything it hits.##[colTitle]Full Hook:[] Alieri throws a hook punch, [colStatus]Slowing[] the enemy by [colStatus]20%[] and dealing[colPhys] 90 = []([colTitle]20[] + [colAD]70% [iconAD][])[colPhys] Physical Damage[]. 
+
+rule=[i]
+
+grid=5
+V Swing Base Damage
+!10
+25
+40
+55
+70
+
+grid=5
+V Swing AD Ratio
+!40%
+45%
+50%
+55%
+60%
+
+grid=5
+Full Hook Base Damage
+!20
+50
+80
+110
+140
+
+grid=5
+Full Hook AD Ratio
+!70%
+75%
+80%
+85%
+90%

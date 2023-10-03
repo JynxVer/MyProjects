@@ -1,0 +1,29 @@
+[[Q] Matterpiercing Slash
+
+8s [iconCooldown]
+
+
+
+60 Energy
+
+Violet creates an Piecing Slash of pure [colAS]Unbound Matter[] with his swords, that flies in the target direction.#The Slash deals [colPhys]55 = [colTitle](20+[colAS]70%[iconKindredStack][colTitle])[][colPhys] Physical Damage[], pierces through targets, and refounds 50% Cooldown for every Champion hit. For every target Pierced, the damage is reduced by 10%.##If cast on a Target enemy in [colStatus]Melee[] Range, Violet will instead slash in front of himself for the same damage. If the attack connects, the cooldown is instantly refounded. The slashes deals 10% less damage for each subsequential hit on the same target within 3 seconds, with a minimum of 50% the original Damage.##[colTitle]Amorphous Unifield[]: The energy cost is halved.
+
+rule=[i]This ability applies On-Hit and On-Attack effects.
+
+rule=[i]
+
+grid=5
+Physical Damage
+!20
+40
+60
+80
+100
+
+grid=5
+Energy Cost
+!80
+75
+70
+65
+60

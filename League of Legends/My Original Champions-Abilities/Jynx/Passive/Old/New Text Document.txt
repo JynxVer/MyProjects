@@ -1,0 +1,9 @@
+I've made it so AP/AD isn't converted, but gained, so Items/Runes can still scale off of it, 
+but i simply made it so his abilities and AAs don't scale with it, instead using "Unbound Matter"
+
+
+
+I've also made it so Penetration is only half as effective, otherwise Magic Pen into Armor Pen would be insanely OP.
+
+The reason i created a whole "Unbound Matter" system, and not used Adaptive Force as i originally intentended, was to give the chance to have the Ratio modified in the future, if need may be.
+Had i used Adaptive directly, this would have not been possible as it would have impacted the whole game. Basically, whilst it does also fit thematically, it is also a BIG balance lever for the character.

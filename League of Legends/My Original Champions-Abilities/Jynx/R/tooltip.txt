@@ -1,0 +1,29 @@
+[[R] Material Annihilation
+
+0s [iconCooldown]
+
+
+
+10/s Energy
+
+Jynx Ver empowers his swords, draining [colAS]10 Energy[] per second to do so. Whilst empowered hitting an enemy with an Attack or Ability applies a stack of [colTitle]Annihilation[].#Each stack increases the target [colTitle]Annihilation[] threshold by [colTrue]0.6%[] = ([colTitle]0.5%[] + [colAS]0.2% [iconKindredStack][]) of their [colTrue]Max Health[].##[colTitle]Recast:[] Jynx ends this ability and damages all targets affected by [colTitle]Annihilation[].#If the target current Health is lower than their [colTitle]Annihilation[] threshold, they are [colTrue]Annihilated[], otherwise, they are dealt [colPhys]0.6%[] = ([colTitle]0.5%[] + [colAS]0.2%[] [iconKindredStack]) [colPhys] Max Health Physical Damage[] per [colTitle]Annihilation[] Stack[]##[colTrue]Annihilating[] a target acts as a more powerful [colTrue]execute[], and cannot be avoided in any way.##[colTitle]Amorphous Unifield:[] The [colTitle]Annihilation[] threshold increase per stack is doubled.
+
+rule=[i]Annihilation's threshold is unique to each target
+
+rule=[i]This ability will end automatically if Jynx's Ver runs out of energy
+
+rule=[i]Amorphous Unifield bonus is applied based on Jynx Ver's position, and not the target's.
+
+rule=[i]
+
+grid=3
+Energy per second 
+!10/s
+8/s
+6/s
+
+grid=3
+Annihilation increase per hit
+!0.5%
+1%
+1.5%

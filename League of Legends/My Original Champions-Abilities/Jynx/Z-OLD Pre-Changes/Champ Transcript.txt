@@ -1,0 +1,108 @@
+Passive: SHAPELESS AMBIVALENCE
+Violet's Abilities have no base values or AP/AD Scalings, instead all of them scale based on a % of his total
+Adaptive Force, unique to each abilty. Ranking up abilities will increase their AF Scalings.
+
+This extends to Penetration as well, converting any Penetretion/Specific Resistance Shread into whichever their have the most
+at the time.
+
+1 AD = 1.67 Adaptive Force.
+1 AP = 1 Adptive Force.
+1% Armor Pen/Shread = 0.6% Magic Pen.
+
+Additionally Violet has no determined Auto Attack Range, their Stance can be toggled by the apposite HUD Element visible 
+ONLY in Fountain.
+
+Ranged "Flowing Matter" Stance has 500 Range and a Specific Set of Abilties.
+Melee "Chaos Balades" Stance has 150 Range and its own set of Abilties.
+
+Same slot Ablities, share their Cooldowns. (Can't use Ranged R then Melee R, using one will put the other on CD as well.)
+
+
+
+
+Passive: UNDEFINABLE VIGOR
+
+Violet has no Mana, their abilities instead cost Energy to Cast.
+Their Energy Regeneration is Halved by default (5/s) but in increases (+1/s) for each enemy that is closeby and Visible, up to a Maximum of 10/s.
+Increases such as PoM and Blue Buff will be Applied AFTER the Per Enemy Increase.
+
+Addtionally Violet convers any Extra Mana from Runes/Items into Maximum Energy, with a rate of 100 Mana to 10 Energy.
+-------------------------------------------------------------------------------------------------------------
+
+Q: MORPHING STRIKE. Energy Cost: 70/60/50/40/30. Cooldown: None.
+
+RANGED: Violet hurls matter at a target location, dealing 5/7.5/10/12.5/15% of their total Adaptive Force, as
+Magic Damage to any enemy struck. 
+
+Subsequent hits on the Same target Champion, will ramp up the damage, up to a Maximum
+of 100% the original Value, based on number of Hits.
+
+
+
+
+MELEE: Violet swings their Swords, dealing 10/15/20/25/30% of their total Adaptive Force, as Phyisical Damage to any enemy struck.
+
+The first Cast will Dash Violet Towards the Target location within 500 Units.
+
+Both Versions apply on-Hit Effects, at different effectiveness. 25% Effectiveness Ranged Form, 50% Effectiveness Melee Form.
+
+------------------------------------------------------------------------------------------------------------------------
+
+W: AMORPUHS UNIFIELD  [COST: 50/35/20/10/0 + 5/s] [Cooldown: 18/16/14/12/10]
+
+RANGED: Violet creates a Zone of unstable matter at the target location, with a 500 + 50% Adaptive Force Units Radius.
+
+Whilist in this Zone, they gain 0.5/0.65/0.8/0.9/1% Adaptive Force as extra Energy Regeneration.
+
+The Zone will stay active until Violet recasts the ability or runs out of energy.
+
+Addtionally this Affects E: FORMLESS MATTER (Ranged)
+
+
+
+MELEE: Violet creates a Zone of unstable matter at the target location, with a 250 + 25% Adaptive Force Units Radius.
+
+Whilst in this Zone, they gain 1/1.25/1.5/1.75/2% Adaptive Force, as Lifesteal.
+
+The Zone will stay active until Violet recasts the ability or runs out of energy.
+
+Addtionally this Affects E: FORMLESS MATTER(Melee)
+
+-------------------------------------------------------------------------------------------------------------------------
+
+E: FORMLESS MATTER [COST: 100/90/80/70/60] [Cooldown: 16/14/12/10/8]
+
+RANGED: Violet materialises matter at the target logation, the first enemy hit will be stunned for 0.1/0.125/0.15/0.175/0.2% 
+of their total Adaptive Force.
+
+If this ablity is cast whithin W: AMORPHUS UNIFIELD, when the first enemy is hit, every other enemy in the Field will be
+Rooted for half of the Original Stun Duration.
+
+If no other enemy is in the AMORPHUS UNIFIELD, the original target will be stunned for an addtional 0.05/0.075/0.1/0.125/0.15% % of Violet's Adaptive Force.
+With a Maximum stun Duration of 2 Seconds.
+
+
+
+MELEE: Violet materialises themselves at the target location, within 250+25% Adaptive Force Range.
+
+If this ability is cast within W: AMORPHUS UNIFIELD, it has no cost or cooldown, and can be cast as long as the field
+is active.
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+
+R: MATERIAL ANNIHILATION [COST: None] [Cooldown: 240/160/80 Seconds]
+
+RANGED: Violet Picks a Target closeby and Visible, they're then able to recast the ability withing 20 Seconds, doing so will start a Channel
+Time of 3 seconds, during which Violet can't use any abilties, but can still move. 
+
+At the End of the Cast, Violet deals 5/10/15% of their Adaptive Force as % Max HP True Damage. If the target dies from this ability
+they get Annihilated, doubling their respawn time.
+
+
+
+
+MELEE: Violet Picks a Target Visible anywhere on the Map, if the target's HP is less or equal to 60/70/80% of Violet's Total AF, this ability can be Recast within 20 Seconds.
+
+Recasting will start a 1 Second Channel, after which Violet will Blink to the target's location, if the target is Dealt the last blow by Violet, they are Annihilated, doubling their Respawn Time.
