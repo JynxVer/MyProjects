@@ -1,0 +1,19 @@
+<BLCMM v="1">
+#<!!!You opened a file saved with BLCMM in FilterTool. Please update to BLCMM to properly open this file!!!>
+	<head>
+		<type name="BL2" offline="false"/>
+	</head>
+	<body>
+		<category name="SHUT THE FUCK UP SHIELDY FUCK">
+			<code profiles="default">set GD_Globals.General.Globals ShieldRecoveredAkEvent ()</code>
+			<code profiles="default">set GD_Globals.General.Globals ShieldRecoveringAkEvent ()</code>
+			<code profiles="default">set GD_Globals.General.Globals ShieldDownAkEvent ()</code>
+		</category>
+	</body>
+</BLCMM>
+
+#Commands:
+set GD_Globals.General.Globals ShieldRecoveredAkEvent ()
+set GD_Globals.General.Globals ShieldRecoveringAkEvent ()
+set GD_Globals.General.Globals ShieldDownAkEvent ()
+
