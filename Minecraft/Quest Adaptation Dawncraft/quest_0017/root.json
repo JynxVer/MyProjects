@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:poppy",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Potesti portarmi $(red)Un mazzo di erba dell'anima$()? Puoi trovarla nel Nether."
+    }
+  }
+}

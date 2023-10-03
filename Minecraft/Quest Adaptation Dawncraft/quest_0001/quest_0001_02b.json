@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0001_01",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Ora che ci penso..."
+    },
+    "description": {
+      "text": "Ora che ci penso... c'e un modo in cui posso ripagarti. Puoi portarmi della carta, così posso creare una mappa?"
+    }
+  }
+}

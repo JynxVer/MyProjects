@@ -1,0 +1,55 @@
+{
+  "parent": "quest_giver:quest_0014_07",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Il cavaliere sentinella ha protetto l'Occhio Guardiano per secoli. Non ho mai visto alcun avventuriero in grado di sconfiggerlo... egli però è in possesso della chiave per liberere l'occhio dal suo stato dormiente."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Incredibile. Persino il cavaliere sentinella non ha avuto possiblità contro di te... Ora che ti stai avvicinando alla fine della tua avventure, come ti senti? ... In ogni caso, dovrai evocare il prossimo possessore. Ecco, prendi questa ciocca di capelli e la mappa con le coordinate per l'altare che dovrai usare per l'evocazione."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:guardian_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster6",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "simple_mobs:giant_knot"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/gamestage add @p fire_giant",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:sentinel_knight_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster8 true",
+      "id": "quest_giver:command"
+    }    
+  ]
+}

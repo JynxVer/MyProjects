@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0001_02b",
+  "reputation": 5,
+  "icon": "minecraft:iron_helmet",
+  "start": {
+    "title": {
+      "text": "Ciao di nuovo!"
+    },
+    "description": {
+      "text": "Ciao di nuovo! Hai ottenuto della carta per me? Così potrò creare la mappa!."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Qui"
+    },
+    "description": {
+      "text": "Qui. C'è una casa infestata da quei cacciatori pazzi... Uno dei miei amici ha scovato la loro posizione e l'ha segnata sulla mappa. Sono sicuro che abbiano raccolto un sacco di bottino depredando i loro nemici...uccidily, e prendilo! Se puoi, cerca una collana che mi hanno rubato. Gli piace nascondere il loro bottino sotti i tavoli. Per favore, fai il possbile per trovarla, farò il possibile per ripagarti, se mi riporti quella collana!"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "amount": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:armorer1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p armorer1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

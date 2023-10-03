@@ -1,0 +1,29 @@
+{
+  "parent": "quest_giver:quest_0014_09",
+  "reputation": 10,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "Il Capolinea"
+    },
+    "description": {
+      "text": "Non ho più informazioni da darti amico mio. Segui il tuo istinto."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "La fine... è solo L'Inizio??"
+    },
+    "description": {
+      "text": "Quindi... hai sconfitto il drago. Suppong che questo faccià di te il nuovo Re del reame. Congratulazioni, coraggioso conquistatore. Hai fatto... tutto il possibile. Ora, se vuoi scusarmi...."
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "minecraft:end/kill_dragon"
+    }
+  ],
+  "rewards": [
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "parent": "quest_giver:quest_0014_06",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Il prossimo possessore è un non-morto. Un non-morto con molti assi nella manica... è circondato dai suoi seguaci, quindi potresti avere difficoltà nel raggiungerlo."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Il lord degli Scheletri è forse il non-morto più potente che io abbia mai visto. Sono sorpreso che tu sia riuscito a sconfiggerlo. Allora, vediamo... il possimo occhio è protetto da un rinomato Cavaliere sacro. Non so se sia possibile sconfiggerlo, persino per te. Ad ogni modo, ti indicherò dove si trova. Ma fa attenzione."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:magical_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster5",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:skeleton_lord_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster7 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

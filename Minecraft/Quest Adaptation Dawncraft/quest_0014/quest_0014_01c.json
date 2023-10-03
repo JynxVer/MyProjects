@@ -1,0 +1,40 @@
+{
+	"parent": "quest_giver:quest_0014_01b",
+	"reputation": 5,
+	"icon": "minecraft:crossbow",
+	"start": {
+		"title": {
+			"text": "Trovare i Predoni"
+		},
+		"description": {
+			"text": "Pensavo fossi un avventurero... portami un pezzo di carta. Ti indicherò dove si trova l'accampamento di predoni più vicino, di cui siamo a conoscenza, perlomeno."
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Mappa ottenuta"
+		},
+		"description": {
+			"text": "Ecco a te. Potresti trovare predoni nelle sue vicinanze. Quei maledetti sono ovunque."
+		}
+	},
+	"tasks": [
+        {
+          "item": {
+             "item": "minecraft:paper"
+           },
+           "id": "quest_giver:gift",
+           "times": 1
+    	  }
+	],
+	"rewards": [
+    {
+      "command": "/loot give @p loot minecraft:pillager1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster1 true",
+      "id": "quest_giver:command"
+    }
+]
+}

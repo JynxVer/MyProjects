@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Potresi construirmi $(red)un arco$()? Il nostro armaiolo è parecchio impegnato ultimamente."
+    }
+  }
+}

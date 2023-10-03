@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Posso insegnarti come usare un Tavolo da Impennatura per soli 10 Smeraldi. Cosa ne dici?"
+    }
+  }
+}

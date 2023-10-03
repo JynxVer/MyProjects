@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:brewing_stand",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao avventuriero, potresti portarmi $(red)5 pezzi di Carne Marcia$()? Ne ho bisognio per fare delle pozioni."
+    }
+  }
+}

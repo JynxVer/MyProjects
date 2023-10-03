@@ -1,0 +1,38 @@
+{
+	"parent": "quest_giver:quest_0014_01b",
+	"reputation": 5,
+	"icon": "minecraft:enchanted_book",
+	"start": {
+		"title": {
+			"text": "Abilità di base"
+		},
+		"description": {
+			"text": "Torna appena avrai soddisfatto le richeste  - $(red)Sconfiggi 10 predoni$()."
+		}
+	},
+	"complete": {
+		"title": {
+			"text": "Abilità di base"
+		},
+		"description": {
+			"text": "Ecco, apri il libro ed impara l'abilità. Se vuoi ottene più libri conteneti abilità, ti suggerisco di completare le richieste della guardia. Buona fortuna!"
+		}
+	},
+	"tasks": [{
+		"entity": "minecraft:pillager",
+		"id": "quest_giver:kill",
+		"times": 10
+	}],
+	"rewards": [{
+		"command": "/give @p epicfight:skillbook{skill:\"epicfight:roll\"}",
+		"id": "quest_giver:command"
+	},
+        {
+          "command": "/loot give @p loot minecraft:guildmaster0",
+          "id": "quest_giver:command"
+        },
+        {
+           "command": "/gamestage add @p guildmaster2 true",
+            "id": "quest_giver:command"
+        }]
+}

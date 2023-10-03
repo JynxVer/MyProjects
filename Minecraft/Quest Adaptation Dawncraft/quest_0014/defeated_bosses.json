@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:emerald",
+  "start": {
+    "title": {
+      "text": "Già fatto!"
+    },
+    "description": {
+      "text": "Oh? Hai sconfitto il possessore dell'occhi prima ancora che ti dessi la mappa? Huh... allora mostrami quale occhio il possessore ti ha laciato. Anzi, lancialo a terra e poi riprendilo... e non chiedere il perchè!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Il capolinea"
+    },
+    "description": {
+      "text": "Non ho altre informazioni da darti, amico mio. Segui il tuo istinto."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 5,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao! Sembra che questa sia la prima tua prima visita, benvenuto nella nostra Gilda. Vuoi intraprendere la tua prima missione?"
+    }
+  }
+}

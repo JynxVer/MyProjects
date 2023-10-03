@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:paper",
+  "start": {
+    "title": {
+      "text": "Impara ad usare il Banco da Cartografia"
+    },
+    "description": {
+      "text": "Oh... hm, va bene. Portami 15 Smeraldi e ti insegnerò ad usarlo."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Ecco a te!"
+    },
+    "description": {
+      "text": "Non farti intimidire da tutta l'attrezzatura sul tavolo, sono sicuro che ci prenderai la mano in un baleno!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add sailing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

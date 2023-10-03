@@ -1,0 +1,29 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:compass",
+  "start": {
+    "title": {
+      "text": "Gli occhi abbandonati"
+    },
+    "description": {
+      "text": "Per quanto ne so, al momento ci sono 7 occhi abbandonati dai propri possessori. Questi sette possono essere trovati un strutture come La Vecchia e La maledetta . Per quanto riguarda gli altri... penso possano essere craftati quasi tutti utilizzando la forza vitale di questo reame, alcuni però sono stati rubati da bestie senzienti. Le persone del posto probabalimente sapranno dirti di più. L'ultima cosa che so dirti, è che i clerici sono in possesso dell'Occhio Malvagio."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Gli occhi abbandonati"
+    },
+    "description": {
+      "text": "Credo non ci sia più bisono di cercare gli occhi?"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "minecraft:end/kill_dragon"
+    }
+  ],
+  "rewards": [
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Vuoi imparare come pescare? C'è bisognio di pazienza, perseveranza, ed anche di un buon maestro! Ti insegnierò a pescare in cambio di 15 Smeraldi, cosa ne dici?"
+    }
+  }
+}

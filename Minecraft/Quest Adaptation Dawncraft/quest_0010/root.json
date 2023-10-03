@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:stone",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Vuoi imparare ad usare il Tagliapietre? Ti insegnierò ad usarlo per 10 Smeraldi!"
+    }
+  }
+}

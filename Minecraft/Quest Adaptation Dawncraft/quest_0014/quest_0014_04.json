@@ -1,0 +1,60 @@
+{
+  "parent": "quest_giver:quest_0014_03",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "L'orco è su tutt'altro livello rispetto al re dei goblin. Procedi con cautela."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Ben Fatto. Magari potrai fronteggiare $(red)Il cavaliere Rober$() adesso. E' molto più debole rispetto al passato, ma suppongo sia comunque un osso duro, visto che è ancora in grado di contenere il potere dell'occhio in suo possesso. Eccoti la mappa che ti indicherà dove si trova."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:lost_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster2",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/dc enableInvasions @p",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add endurance level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add cooking level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p AdvancedSmelting true",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:corrupt_ogre_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster4 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

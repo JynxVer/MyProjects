@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0014_08",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Il Capolinea"
+    },
+    "description": {
+      "text": "Il gigante di fuoco sparì dal nostro reame molto tempo fa. Fummo in grado di reperire una ciocca dei suoi capelli prima della sua partenza. I grandi clerici hanno incantato la ciocca con della magia, se offrirai degli artefatti all'altare, potrai evocare il gigante di fuoco. Se mai perdessi la ciocca, combina una pozione di resistenza al fuoco, con una carica di fuoco in un alambicco, e l'oggetto verrà richiamato immediatamente."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Il Capolinea"
+    },
+    "description": {
+      "text": "Bhe, sono senza parole... è il momento, avventuriero. Hai sconfitto tutti i possessori degli occhi. Se hai già acquisito i 12 occhi, cerca il portale dell'End. Che dio sia con te."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:corrupted_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:village @p 10",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "simple_mobs:giant_knot"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

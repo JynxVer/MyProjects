@@ -1,0 +1,12 @@
+{
+  "reputation": 4,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Avventuriero, potresti aiutarmi ad ottenere 5 Perle di ender?"
+    }
+  }
+}

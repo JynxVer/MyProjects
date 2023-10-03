@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0009_01b",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Richiesta di recupero"
+    },
+    "description": {
+      "text": "Torna da me appena hai le $(red)sacche di inchostro$()."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Molte Grazie. Sfortunatamente ho appena saputo che abbiamo anche poca Carta... Pensi di poterci aiutare ad ottenere 10 pezzi di carta? I rifornimenti dovrebbero arrivare nei prossimi giorni, ma al momento ci farebbe comodo il tuo aiuto."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:ink_sac"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

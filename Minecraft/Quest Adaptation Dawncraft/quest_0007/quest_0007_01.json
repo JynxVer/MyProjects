@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "So?"
+    },
+    "description": {
+      "text": "10 Smeraldi per imparare ad usare il Tavolo da Impennatura, abbastanza conveniente no?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Ecco a te. Divertiti a creare frecce!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 10
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add archery level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

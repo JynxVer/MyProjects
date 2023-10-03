@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Vuoi che ti insegni ad usare la Mola? Ti costeà 10 Smeraldi."
+    }
+  }
+}

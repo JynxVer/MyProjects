@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Ho bisognio che tu mi prenda qualcosa!"
+    },
+    "description": {
+      "text": "Ho bisognio di qualcosa! Potresti portarmi $(red)4 lingotti di ferro$()? Sono a corto di materialy per le mie armature...prometto che ti ripagerò prima o poi!"
+    }
+  }
+}

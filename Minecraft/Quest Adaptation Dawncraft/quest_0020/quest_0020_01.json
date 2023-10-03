@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0020_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Mi hai portato un pezzo di carta? Per creare la mappa!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Ecco a te. Salutalo da parte mia, mi raccomando!"
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:netherian1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p netherian1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

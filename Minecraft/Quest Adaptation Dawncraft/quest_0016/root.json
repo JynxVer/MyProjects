@@ -1,0 +1,12 @@
+{
+  "reputation": 3,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao, mi mancano dei pezzi per riparare il mio macchinario. Potresti portatimi $(red)una leva ed una chiave inglese di rame$()?"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:map",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao straniero, potrestri portatmi una sacca di inchiostro e della carta?"
+    }
+  }
+}

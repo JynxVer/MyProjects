@@ -1,0 +1,12 @@
+{
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Salve. Mi spiace disturbarti, ma potresti darmi una mano?"
+    }
+  }
+}

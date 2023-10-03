@@ -1,0 +1,52 @@
+{
+  "parent": "quest_giver:quest_0014_05",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Hm... il Nove code non è proprio umano. Capirai meglio quando lo incontrerai."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Hmmph... non sono neanche più sorpreso a questo punto. Ottimo lavoro. Il Nove code era uno spirito molto violento... Non ho idea del perchè avesse deciso di rifugiarsi in una stalla abbandonato. Ad ogni modo, ecco dove si trova il prossimo possessore. Attendo, questo non ha nulla in comune con quelli che hai già affrontato."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:exotic_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster4",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add magic level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add smithing level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:nine_tails_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster6 true",
+      "id": "quest_giver:command"
+    }    
+  ]
+}

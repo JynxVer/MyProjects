@@ -1,0 +1,36 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 10,
+  "icon": "minecraft:cod",
+  "start": {
+    "title": {
+      "text": "Sblocca: Canna da Pesca"
+    },
+    "description": {
+      "text": "Vuoi imparare a pescare? Portami 15 Smeraldi!"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Non è difficile no? Cerca di tenere la canna bella ferma, altrimenti il movimento spaventerà i pesci!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:gift",
+      "times": 15
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/pmmo admin @p add fishing level 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

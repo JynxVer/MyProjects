@@ -1,0 +1,12 @@
+{
+  "reputation": 25,
+  "icon": "minecraft:diamond",
+  "start": {
+    "title": {
+      "text": "Non Importa"
+    },
+    "description": {
+      "text": "Il Villager ha deciso di non parlarti più"
+    }
+  }
+}

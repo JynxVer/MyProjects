@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Consiglio"
+    },
+    "description": {
+      "text": "La mia preziosa verdura non cresce bene ultimamente... Pensi di potermi portare $(red)8 ossa$() così potrò creare del fertilizzante?"
+    }
+  }
+}

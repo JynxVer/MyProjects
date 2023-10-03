@@ -1,0 +1,52 @@
+{
+  "parent": "quest_giver:quest_0014_04",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Abbiamo poche informazioni riguardo il cavaliere Rober, ma dovrebbe essersi indebolito dall'ultima guerra... Oh, e ricordati di portare con te delle Perle di ender. Ha un attacco molto forte che può essere evitato solo teletrasportandosi."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Incredibile! Hai sconfitto il cavalieri Rober eh? E' stata dura? Una volta Rober era il peggior nemico che potessi affrontare in un duello, immagino che l'età si sia fatta sentire. Bene, il prossimo possessore è un altro umano. Vive pacificamente nella sua fattoria... ecco la mappa che ti condurrà da lui."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "endrem:rogue_eye"
+      },
+      "id": "quest_giver:item_pickup",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:guildmaster3",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add crafting level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/pmmo admin @p add engineering level 1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/advancement grant @p only simple_mobs:knight_rober_quest_complete",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p guildmaster5 true",
+      "id": "quest_giver:command"
+    }    
+  ]
+}

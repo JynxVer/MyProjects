@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Aiuto"
+    },
+    "description": {
+      "text": "Ho bisognio del tuo aiuto per recuperare un oggetto chiamato $(red)Cuore del Mare$(). Può spesso essere trovato in tesori sepolti, purtroppo non ho ne l'esperienza ne l'abilità per cercarlo da me. Potresti portarmelo tu?"
+    }
+  }
+}

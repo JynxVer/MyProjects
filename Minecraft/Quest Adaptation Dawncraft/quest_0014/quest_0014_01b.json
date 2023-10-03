@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 5,
+  "icon": "minecraft:enchanted_book",
+  "start": {
+    "title": {
+      "text": "Abilità di Base"
+    },
+    "description": {
+      "text": "Ah... non penso saresti in grado di trovare i possessori degli occhi nelle tue correnti condizioni. Torna appena avrai sconfitto $(red)10 predoni$(). Ti darò l'abilità di base più importante di questa dimensione."
+    }
+  }
+}

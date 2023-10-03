@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 13,
+  "icon": "minecraft:arrow",
+  "start": {
+    "title": {
+      "text": "Aiuto"
+    },
+    "description": {
+      "text": "Ho sentito ottime cose sul tuo operato. Ho bisognio che tu mi porti 4 pezzi di: $(red)pelle di leone$(), torna da me appena hai tutto!"
+    }
+  }
+}

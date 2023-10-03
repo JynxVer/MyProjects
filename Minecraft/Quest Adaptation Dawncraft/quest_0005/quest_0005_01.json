@@ -1,0 +1,43 @@
+{
+  "parent": "quest_giver:quest_0005_01b",
+  "reputation": 4,
+  "icon": "minecraft:wheat_seeds",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Mi hai portato le $(red)8 ossa$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Fantastico! Ora la mia verdura crescierà più in fretta di quella degli altri contadini! Haha! La ringrazio messere, ecco uno smeraldo come segnio della mia gratitudine."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:bone"
+      },
+      "id": "quest_giver:gift",
+      "times": 8
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/addreputation reputation:villager @p 3",
+      "id": "quest_giver:command"
+    },
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    }
+  ]
+}

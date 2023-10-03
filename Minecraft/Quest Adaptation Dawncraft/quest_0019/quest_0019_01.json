@@ -1,0 +1,40 @@
+{
+  "parent": "quest_giver:quest_0019_01b",
+  "reputation": 16,
+  "icon": "minecraft:iron_pickaxe",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Mi hai portato un pezzo di carta? Così potrò creare una mappa."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Ecco a te. Per favore prestagli i miei saluti. Non sarei qui oggi senza di lui."
+    }
+  },
+  "tasks": [
+     {
+      "item": {
+	 "item": "minecraft:paper"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+     }
+  ],
+  "rewards": [
+    {
+      "command": "/loot give @p loot minecraft:miner1",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/gamestage add @p miner1 true",
+      "id": "quest_giver:command"
+    }
+  ]
+}

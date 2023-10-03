@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 14,
+  "icon": "minecraft:book",
+  "start": {
+    "title": {
+      "text": "Richiesta di recupero"
+    },
+    "description": {
+      "text": "Potresti aiutarmi a reperire 4 sacche di inchostro?"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Vuoi imparare ad usare il telaio? Te lo insegnerò per 10 Smeraldi!"
+    }
+  }
+}

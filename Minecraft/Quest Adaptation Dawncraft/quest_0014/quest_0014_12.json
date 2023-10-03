@@ -1,0 +1,29 @@
+{
+  "parent": "quest_giver:quest_0014_11",
+  "reputation": 10,
+  "icon": "minecraft:ender_pearl",
+  "start": {
+    "title": {
+      "text": "La Fine... è solo l'inizio??"
+    },
+    "description": {
+      "text": "Se vuoi proprio saperlo...La divinità che ha corrotto il Drago dell'end... è ancora viva. Ma è troppo potentente, persino per te. La mappa per ranggiungerlo è custodita dal guardiano dell'End. Non so dove esso possa essere ma... i nostri Enderisti potrebbero. Ti sconsiglio ti intraperendere questa avventura. Hai già fatto più che abbastanza."
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Il vero Finale"
+    },
+    "description": {
+      "text": "Mi.... Mi spiace di averti dubitato. Hai dimostrato di essere davvero...unico nel tuo genere.                                      - Fine del Dialogo -"
+    }
+  },
+  "tasks": [
+    {
+		"id": "afptweaks:advancement",
+		"advancement": "simple_mobs:killelementaldeity"
+    }
+  ],
+  "rewards": [
+  ]
+}

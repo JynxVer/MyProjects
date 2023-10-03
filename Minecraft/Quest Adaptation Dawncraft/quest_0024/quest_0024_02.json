@@ -1,0 +1,34 @@
+{
+  "parent": "quest_giver:quest_0024_01",
+  "reputation": 6,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "Bambino scomparso"
+    },
+    "description": {
+      "text": "Per favore salva il bambino e riportalo qui."
+    }
+
+  },
+  "complete": {
+    "title": {
+      "text": "Bambino scomparso: Completata"
+    },
+    "description": {
+      "text": "Sei un vero eroe, avventuriero. Non dimenticheremo mai ciò che hai fatto per noi. Ecco, come ringraziamento, ti insegnero una nuova abilità da combattimento - Assalto furioso!."
+    }
+  },
+  "tasks": [
+    {
+      "id": "afptweaks:follow_quest",
+       "structure": "#minecraft:village"
+    }
+  ],
+  "rewards": [
+    {
+      "command": "/give @p epicfight:skillbook{skill:\"epicfight:berserker\"}",
+      "id": "quest_giver:command"
+    }
+  ]
+}

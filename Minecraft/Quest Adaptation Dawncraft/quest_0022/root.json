@@ -1,0 +1,12 @@
+{
+  "reputation": 6,
+  "icon": "minecraft:log",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Hey ragazzo, potresti portarmi un ceppo di $(red) Archwood viola orticante$()?"
+    }
+  }
+}

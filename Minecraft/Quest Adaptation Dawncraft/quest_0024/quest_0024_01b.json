@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 6,
+  "icon": "minecraft:bow",
+  "start": {
+    "title": {
+      "text": "Aiuto"
+    },
+    "description": {
+      "text": "I predona hanno rapito un bambino del nostro villaggio... Per favore salvalo e riportalo a casa. Le nostre guardie sono troppo impegnate a pattugliare il villaggio, sei la nostra unica speranza."
+    }
+  }
+}

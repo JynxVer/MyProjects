@@ -1,0 +1,30 @@
+{
+  "parent": "quest_giver:quest_0001_01b",
+  "reputation": 5,
+  "icon": "minecraft:iron_ingot",
+  "start": {
+    "title": {
+      "text": "Ho bisognio che tu mi prenda qualcosa!"
+    },
+    "description": {
+      "text": "Ciao! Hai i $(red)4 Lingotti di ferro$() che ti avevo chiesto?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Grazie! Ora posso creare un'armatura per quella guardia...così smetterà di chiedermene una continuamente! Non ho nulla da darti al momento, ma giuro che ti ripagerò in futuro!"
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "minecraft:iron_ingot"
+      },
+      "id": "quest_giver:gift",
+      "times": 4
+    }
+  ]
+}

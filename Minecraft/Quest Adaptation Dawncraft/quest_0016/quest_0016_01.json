@@ -1,0 +1,54 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 3,
+  "icon": "minecraft:redstone",
+  "start": {
+    "title": {
+      "text": "Quindi?"
+    },
+    "description": {
+      "text": "Hai la $(red)chiave inglese di rame e la leva$()?"
+    }
+  },
+  "complete": {
+    "title": {
+      "text": "Grazie!"
+    },
+    "description": {
+      "text": "Grazie. Ecco a te, ti ringrazio per l'aiuto."
+    }
+  },
+  "tasks": [
+    {
+      "item": {
+        "item": "supplementaries:wrench"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    },
+    {
+      "item": {
+        "item": "minecraft:lever"
+      },
+      "id": "quest_giver:gift",
+      "times": 1
+    }
+  ],
+  "rewards": [
+    {
+      "item": {
+        "item": "minecraft:emerald"
+      },
+      "id": "quest_giver:item",
+      "times": 1
+    },
+    {
+      "command": "/advancement grant @p only custom:trade_engineer",
+      "id": "quest_giver:command"
+    },
+    {
+      "command": "/addreputation reputation:villager @p 1",
+      "id": "quest_giver:command"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "reputation": 10,
+  "icon": "minecraft:white_wool",
+  "start": {
+    "title": {
+      "text": "Ciao!"
+    },
+    "description": {
+      "text": "Ciao! Potresti portarmi un secchio di latte? Mi va proprio del latte al momento."
+    }
+  }
+}

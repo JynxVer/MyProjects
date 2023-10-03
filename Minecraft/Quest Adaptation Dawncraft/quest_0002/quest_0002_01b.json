@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:root",
+  "reputation": 0,
+  "icon": "minecraft:beef",
+  "start": {
+    "title": {
+      "text": "Un Favore"
+    },
+    "description": {
+      "text": "Buon'uomo! Sono giorni che i nostri cacciatori non prendono un coniglio... Ti sarei molto grato se potessi darmi qualche $(red)zampa di coniglio$() se ne avessi qualcuna."
+    }
+  }
+}

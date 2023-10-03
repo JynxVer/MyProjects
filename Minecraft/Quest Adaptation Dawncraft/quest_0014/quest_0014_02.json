@@ -1,0 +1,13 @@
+{
+  "parent": "quest_giver:quest_0014_01",
+  "reputation": 10,
+  "icon": "minecraft:iron_sword",
+  "start": {
+    "title": {
+      "text": "I Possessori degli occhi"
+    },
+    "description": {
+      "text": "Ottimi, sembra tu sia pronto per un'avventura! Pronto a trovare il tuo primo occhio?"
+    }
+  }
+}

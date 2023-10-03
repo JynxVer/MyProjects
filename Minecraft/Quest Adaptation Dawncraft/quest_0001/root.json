@@ -1,0 +1,12 @@
+{
+  "reputation": 0,
+  "icon": "minecraft:wooden_sword",
+  "start": {
+    "title": {
+      "text": "Ciao, giovane avventuriero!"
+    },
+    "description": {
+      "text": "Ciao, giovane avventuriero! Ti dispiacerebbe darmi una mano?"
+    }
+  }
+}
