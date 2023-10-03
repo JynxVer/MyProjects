@@ -1,0 +1,9 @@
+Trinity Force
+
+Fighter DPS
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAD] [colStat]55[] Attack Damage#[iconAS] [colStat]20%[] Attack Speed#[iconHP] [colStat]300[] Health##[colTitle]Crestblade's Edge:[] After Using an Ability, your next 3 Attacks are empowered, gaining [colRange]25 Addtional Attack Range[] and dealing [colTitle](50%[iconMeleeDark]/25%[iconRangedDark])[] [colAD]base AD []as bonus [colPhys]Physical Damage[] [colTitle][iconOnHit](On-hit)[]. This effects has a 1.5s [iconCooldown] Cooldown# ##[colTitle]Ionian Vigor:[] Hitting an enemy [colTitle]Champion[] with an [colCrit]Empowered Auto Attack[] grants you[colAS] 20% Attack Speed[], and [colMS]20 Movespeed []for 3 seconds.##[colAD]Mythic Passive:[] For every legendary Item, [colTitle]Crestblade's Edge[] gains [colAD]10%[iconMeleeDark][colTitle] / [][colAD]5%[iconRangedDark] base AD[]##-[i] [colTitle]Crestblade's Edge[] [i][colRules]Attacks Empowerment lasts 5 [iconCooldown] Seconds. #-[i][colRules] [colTitle]Crestblade's Edge[][i][colRules] max charges and duration will be refreshed if the effect is procced again, before the previous Charges have been consumed.

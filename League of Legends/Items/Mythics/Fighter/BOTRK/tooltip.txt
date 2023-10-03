@@ -1,0 +1,9 @@
+[colAD]Blade of the Ruined King
+
+On-Hit Mythic
+
+[r][iconGold][colGold]3400
+
+
+
+[iconAD] [colStat]40[] Attack Damage#[iconAS] [colStat]25%[] Attack Speed#[iconLifeSteal] [colStat]8%[] Life Steal##[colTitle]Mist's Curse: [colLS]Consume[] all of your [colPhys]bonus [iconAD].[] [colLS]Consumed[] [colPhys]bonus [iconAD][] does't count towards abilities scaling, and Auto Attack Damage [colStat](Currently [colLS]consumed[] [iconAD][colStat] 40)[].##[colTitle]Mist's Edge:[] Attacks apply an additional [colCrit]([iconMeleeLight]9% + 5% [colLS]Consumed[] [iconAD][colCrit]/[iconRangedLight]6% + 3% [colLS]Cunsumed[] [iconAD][colCrit]) enemy current Health physical damage [iconOnHit][colStat] On-Hit[]##[colTitle]Mist's Touch:[] All of your abilities deal an additional [colMagic]([iconMeleeLight][][colStat]15 [colLS]+ 40% Consumed [iconAD]/[iconRangedLight][][colStat]10 [colLS]+ 20% Consumed [iconAD][colMagic]) magic Damage[] [iconOnHit] [colStat]On-Hit[]. Reduced to[colStat] 25%[] effectiveness to targets beyond the first.##[colPhys]Mythic Passive:[] Grants all other Legendary items [iconAS][colStat] 5%[] Attack Speed and [iconLifeSteal] [colStat]1%[] Life Steal

@@ -1,0 +1,9 @@
+Crown of the Shattered Queen
+
+Mage Anti-Burst
+
+[r][iconGold][colGold]3000
+
+
+
+[iconAP] [colStat]80[] Ability Power#[iconHP] [colStat]200[] Health#[iconMP] [colStat]600[] Mana#[iconAH] [colStat]20[] Ability Haste##[colTitle]Safeguard:[] You are[colAS] Safeguarded[], reducing incoming champion damage by 75%. [colAS]Safeguard[] persists for 1.5 seconds after taking champion damage. (40s[iconCooldown])##[colStat]Poise:[] While [colAS]Safeguarded[] gain 1% Damage amplification on your spells, every [colStat](12-6[iconXP])[] seconds, up to 10%. This effect persists until the end of Champion combat.##[colPhys]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconAH][colTitle] 3[] Ability Haste and [iconAP][colTitle] 5[] Ability Power.##[i][colRules][colTitle]Poise [][i][colRules]damage amplification is reset to 0% after [colAS]Safeguard [][i][colRules]is broken and out of champion combat, it will start rising again after[colAS] Safeguard[][i][colRules] is reactivated.#[i][colTitle]Poise[][i][colRules] will not gain % damage whilst dead.

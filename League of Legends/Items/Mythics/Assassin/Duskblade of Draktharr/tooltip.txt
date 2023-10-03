@@ -1,0 +1,9 @@
+Duskblade of Draktharr
+
+AD Assassin General 
+
+[r][iconGold][colGold]3100
+
+
+
+[iconAD] [colStat]60[] Attack Damage#[iconARpen] [colStat]18[] Lethality#[iconAH] [colStat]20[] Ability Haste##[colTitle]Nightstalker:[] Your first Attack against an enemy champion when[colAS] Isolated, []in[colAS] Stealth,[] or if [colAS]Striking First[], will deal an additional [colCrit]([iconMeleeLight] 75 [colAD]+ 30% bonus [iconAD] |[colCrit]55 [colAD]+25% bonus [iconAD][][colCrit]) physical damage[] and mark the target for [colAS]Kill[] (15s[iconCooldown])[]##[colTitle]Night Cloak:[] If an enemy you have recently damaged is killed, gain[colStatus] Camouflage[] for 1.5 seconds, if the enemy was marked for [colAS]Kill[], gain [colStatus]Camouflage[] for 5 seconds, [colMS][iconMS]15% Move speed[] and reset [colTitle]Nightstalker[] cooldown.##[colPhys]Mythic Passive:[] Grants all other Legenday items [iconAH][colStat] 5[] Ability Haste and [iconMS][colStat] 5[] Move Speed##[i][colRules]Attacking an enemy or using any ability will end the[colStatus] Camouflage []and [colMS][i]Move Speed[][i][colRules] bonus effects immideatly. 

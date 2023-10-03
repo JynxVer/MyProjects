@@ -1,0 +1,9 @@
+Unyielding Shieldbow
+
+Marksmen Sustain
+
+[r][iconGold][colGold]3400
+
+
+
+[iconAD] [colStat]50[] Attack Damage#[iconAS] [colStat]15%[] Attack Speed#[iconCritChance] [colStat]20%[] Critical Strike Chance#[iconLifeSteal] [colStat]7%[] Life Steal##[colTitle]Lifeline:[] When taking damage that would reduce you below 30% Health, gain a [colStat]150-300[iconXP][][colMagic]Shield[] for 3s, and both of [colStat]Bilateral Patc[] bonuses for 8s (90s [iconCooldown]).##[colTitle]Bilateral Pact:[] When [colStat]Lifeline[] is available, gain [colStat]10%-20%[iconXP][] additional [colAS]Attack Speed[]. When [colStat]Lifeline[] is on Cooldown instead gain [colStat]5-15[iconXP][] [colAD]bonus [iconAD].##[colPhys]Mythic Passive:[] Grants all other [colStat]Legendary[] items [iconAD] [colStat]3[] Attack Damage and [iconLifeSteal] [colStat]1%[] Lifesteal

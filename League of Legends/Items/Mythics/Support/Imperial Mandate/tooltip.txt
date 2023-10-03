@@ -1,0 +1,9 @@
+Imperial Mandate
+
+Support Mage
+
+[r][iconGold][colGold]2800
+
+
+
+[iconAP] [colStat]50[] Abilty Power#[iconHP] [colStat]200[] Health#[iconMP] [colStat]250[] Mana[]#[iconAH] [colStat]20[] Ability Haste##[colTitle]Coordinated Assault:[][colStatus] Immobilizing[] an enemy Champion grants you and nearby allies [colStat]20% [colMovespeed]Move Speed[] for 2 seconds. Additionally empower their attacks to deal additional [colMagic](10 + [colAP]10%[iconAP][colMagic])[] [colMagic]Magic Damage [colStat]On-Hit[] [iconOnHit] against the affected Champion for 4 seconds.##[colStatus]Slowing[] an enemy Champion with an Ability grants the same effects, but reduced to[colStat] 10% Move Speed[] and [colMagic]  (5 + [colAP]5%[iconAP][colMagic])[colMagic] Magic Damage[] [colStat]On-Hit[] [iconOnHit] instead[].##[colPhys]Mythic Passive:[] Grants all other [colStat]Legendary[] items [iconAP] [colStat]15[] Ability Power.##[i][colRules]This effects can only be activated on 1 Enemy Champion per Ability cast.#[i][colRules]Immobilizing or Slowing the same enemy multiple times will not stack the effects, but only refresh their duration.

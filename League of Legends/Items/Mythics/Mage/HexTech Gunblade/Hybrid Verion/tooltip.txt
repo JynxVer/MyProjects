@@ -1,0 +1,12 @@
+Hextech Gunblade
+
+Hybrid 
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAP] [colTitle]70[] Ability Power#[iconAD][colTitle] 30[] Attack Damage#[iconMS] [colTitle]7%[] Move Speed##[colTitle]Hexcore Pulse[]: Damaging an enemy with an Ability charges a shot that is fired after a 0.5s delay. The shot [colStatus]slows[] the target by 40% for 1.5 seconds and deals [colMagic]125 = [colTitle](125 + [colAD]5% [iconAD] [colTitle]+[] [colAP]20% [iconAP][colTitle])[][colMagic] Magic Damage[]. (40s[iconCooldown])##[colTitle]Hexblade Cuts:[] [colHeal]Heal[] for 8% of the damage dealt to targets that have been affected by [colTitle]Hexblade Pulse[]##[colCrit]Mythic Passive:[] Grants all other [colTitle]Legendary[] Items [iconAP] [colTitle]5[] Ability Power and [iconAD] [colTitle]3[] Attack Damage##[colRules][i]Hexblade Cuts is active for 8 seconds after triggering Hexcore Pulse on a target
+
+
+

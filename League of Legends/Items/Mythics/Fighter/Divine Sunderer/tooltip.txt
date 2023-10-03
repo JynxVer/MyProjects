@@ -1,0 +1,9 @@
+Divine Sunderer
+
+Fighter Anti-Tank
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAD] [colStat]40[] Attack Damage#[iconHP] [colStat]300[] Health#[iconAH] [colStat]20[] Ability Haste##[colTitle]Ascendant Strike:[] After using an Ability, your next Attack is enhanced with an additional[colTitle] (3%[iconMeleeLight]/1.5%[iconRangedLight])[colTrue] max HP True Damage[] (1.5s[iconCooldown])[]. If target is a champion, also heal for [colHeal]50% of the premitigation damage.##[colTitle]Withering Blows:[] Using[colTitle] Ascendant Strike[] on the same target, increases its effectiveness by [colTitle](10%[iconMeleeLight]/5%[iconRangedLight])[] for every extra hit after the first, up to 100%. ##[colAD]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconARpen][colTitle] 3% Armor Penetration[] and [iconMRpen] 3% Magic Penetration.##[i][colRules][colTitle]Ascendat Strike[] [colRules]maximum damage is capped at  [colTitle](6%[iconMeleeLight]/3%[iconRangedLight])[].

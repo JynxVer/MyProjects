@@ -1,0 +1,15 @@
+Valzer di Ataraxia 
+
+Sul-colpo
+
+[r][iconGold][colGold]3100
+
+
+
+[iconAD] [colTitle]40[] Attacco Fisico#[iconAS][colTitle] 30%[] Velocità d'attacco#[iconAR] [colTitle]25[] Armatura##[colTitle]Danza d'acciaio[]: Gli attacchi infliggono [colTitle]15-70[][iconXP][colMagic] danni magici[] [iconOnHit][colTitle]Sul-colpo[] e forniscono [colTitle](5[iconMeleeDark]/2[iconRangedDark])[][colAR] Armatura[] (massimo 20).
+
+rule=[i] Il danno Sul-colpo [iconOnHit] non aumenterà fino al livello 9.
+
+
+
+

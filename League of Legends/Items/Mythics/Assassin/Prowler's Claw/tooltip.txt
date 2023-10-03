@@ -1,0 +1,9 @@
+Prowler's Claw
+
+AD Assassin Oneshot
+
+[r][iconGold][colGold]3100
+
+
+
+[iconAD] [colStat]60[] Attack Damage#[iconARpen] [colStat]18[] Lethality#[iconAH] [colStat]20[] Ability Haste##[colGold]Active - Sandswipe:[] Target an enemy champion, and for the next 3 seconds, your attacks and abilities against them ignore [colTitle](5-20[iconXP][] + [colTitle]50% [iconARpen][][colLS] Lethality[]) of their armor. (60s[iconCooldown])##[colTitle]Waving Sands:[] Attacks and Abilities deal [colCrit]([iconMeleeLight][colAD]30% bonus [iconAD]|[iconRangedLight]15% bonus [iconAD][colCrit])[][colCrit] Physical damage[] to other enemies within 350 units of the target hit, the [colCrit]Physical Damage[] deal by this effect is affected by [colAS]Sandswipe[] [colARpen]armor penetration[] at all times.##[colPhys]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconARpen][colTitle] 5[] Lethality and [iconMS][colTitle] 5[] Move Speed. 

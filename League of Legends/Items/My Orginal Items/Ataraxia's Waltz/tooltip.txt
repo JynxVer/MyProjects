@@ -1,0 +1,12 @@
+Ataraxia's Waltz 
+
+On-Hit
+
+[r][iconGold][colGold]3100
+
+
+
+[iconAD] [colTitle]40[] Attack Damage#[iconAS][colTitle] 30%[] Attack Speed#[iconAR] [colTitle]25[] Armor##[colTitle]Steel Dance[]: Attacks apply [colTitle]15-70[][iconXP][colMagic] magic damage[] [iconOnHit][colTitle]On-Hit[] and grant [colTitle](5[iconMeleeDark]/2[iconRangedDark])[][colAR] Armor[] (max 20).
+
+rule=[i] On-Hit [iconOnHit] damage scaling locked until level 9
+

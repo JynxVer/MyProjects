@@ -1,0 +1,9 @@
+Night Harvester
+
+AP Assassin Reset
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAP] [colStat]90[] Ability Power#[iconMRpen] [colStat]10[] Magic Penetration#[iconAH] [colStat]20[] Ability Haste###[colTitle]Soulrend:[] Damaging a champion marks them for[colAS] Harvest[] for 5 seconds, and grants you [colMS]15% Move speed[] for 1.5 seconds. (40s[iconCooldown] cooldown).##[colTitle]Soul Harvest:[] If a champion marked for[colAS] Harvest[] is killed, refound [colTitle]([]50%[iconMeleeLight]/30%[iconRangedLight][colTitle])[] of your Basic Abilities total Cooldown, and [colTitle]([]100%[iconMeleeLight]/50%[iconRangedLight][colTitle])[] of their resource cost. If those abilities have no cost, refound an addtional 20% Cooldown, only applies to [iconMeleeLight]. Additionally, [colTitle]Soulrend[] cooldown is also reset.##[colPhys]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconAH][colTitle] 3[] Abilty Haste and [iconMRpen][colTitle] 2[] Magic Penetration.##[i][colRules]Any ability above 850 range, will be considered as ranged, regardless of champion, and will recieve the [iconRangedLight] Cooldown reduction modifier, it will also not benefit from the extra 20% Cooldown reduction, if costless.#[i][colRules]Health cost counts as a resource cost.

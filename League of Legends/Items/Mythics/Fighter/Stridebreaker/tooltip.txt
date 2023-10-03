@@ -1,0 +1,9 @@
+Stridebreaker
+
+Fighter Chasedown
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAD] [colStat]50[] Attack Damage#[iconAS] [colStat]20%[] Attack Speed#[iconHP] [colStat]300[] Health#[iconAH] [colStat]20[] Ability Haste##[colGold]Halting Slash (Active):[] Deal [colAD]175% base[iconAD][colCrit] physical Damage[] to nearby enemies,[colStatus] Slowing[] them by 40% for 3 seconds (15s[iconCooldown], reduced by Ability Haste). Can be cast while moving# ##[colTitle]Heroic Gait:[] Dealing[colAD] physical damage[] grants[colMS] 20 Move Speed[] for 3 seconds.##[colAD]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconMS][colMS]2%[] Move Speed.##-[i] [colTitle]Halting Slash[] [i][colRules] Can be cast with its center up to [colTitle]300 []units from you

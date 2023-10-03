@@ -1,0 +1,9 @@
+Jak'Sho,The Protean
+
+Adaptive Tank
+
+[r][iconGold][colGold]3200
+
+
+
+[iconHP] [colStat]400[] Health#[iconAR] [colStat]30[] Armor#[iconMR] [colStat]30[] Magic Resist#[iconAH] [colStat]20[] Ability Haste##[colTitle]Void Mutatron:[] After entering Champion Combat, [colStat]Jak'Sho[] will be able to [colAS]Mutate[], Adpating your [colAR]Resis[colMR]tances[] based on the Type of Damage being taken.##The [colAS]Mutation[] effect will increase one [colAR]Resis[colMR]tance[][colStat] Type[], but decrease the other by the same amount.#This effect maxes out when one [colAR]Resis[colMR]tance[][colStat] Type[] has been increased by [colStat]100[] and the other Decreased by the same amount.#[colAR]Resis[colMR]tances[] will quickly go back to normal after exting Champion Combat.##[colTitle]Voidborn Resilience:[] For each second in champion combat, grant yourself [colTitle]4[] [colAR]Armor[] and [colMR]Magic Resist[], up to a maximum of [colStat]20[] of each [colAR]Resis[colMR]tance [colStat]Type[].##[i][colRules]The Resistance Type being lowered is capped at a minumum of 30, and no more resistances will be Mutated once this lower limit is reached, even if the 100 Maximum Mutation cap hasn't been reached yet.##[i][colRules]The Mutation speed will vary, based on the Distribution of the Damage taken. If 90% of the Damage taken is Physical, the mutation will be much faster than if only 60% of The damage taken is Physical. 

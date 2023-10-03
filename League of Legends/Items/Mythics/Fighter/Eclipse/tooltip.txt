@@ -1,0 +1,12 @@
+Eclipse
+
+Fighter Burst
+
+[r][iconGold][colGold]3100
+
+
+
+[iconAD][colStat] 60[] Attack Damage#[iconARpen][colStat] 12[] Lethality#[iconAH][colStat] 15[] Ability Haste##[colTitle]Moonveil:[] Using an ability grants you a ([iconMeleeLight][colMagic]25[colAD]+15% bonus [iconAD]/[iconRangedLight][colMagic]15[][colAD]+7.5% bonus [iconAD][]) [colMagic]Shield[] lasting 1 Second. 1.5s [iconCooldown]##[colTitle]Sunscorch:[] Hitting a Champion with 2 separate Attacks or Abilities within 2 seconds, deals an additional [colTitle]([][iconMeleeLight][colCrit]3%/[iconRangedLight]1.5%[colTilte])[][colCrit] max health Physical Damage[], and grants you [colMS]8% Move speed[] for 2 seconds. This effect has a[colTitle]([][iconMeleeLight]3/[iconRangedLight]6[colTilte])[]s [iconCooldown]##[colAD]Mythic Passive:[] Grants all other [colTitle]Legendary[] items [iconARpen][colTitle] 4%[] Armor Penetration and [iconMS][colTitle]5[] Move Speed
+
+
+

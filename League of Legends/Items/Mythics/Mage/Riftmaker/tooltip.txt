@@ -1,0 +1,9 @@
+Riftmaker
+
+AP Fighter
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAP] [colStat]70[] Ability Power#[iconHP] [colStat]300[] Health#[iconAH] [colStat]20[] Ability Haste###[colTitle]Void Corruption:[] For each second in combat, gain [colTitle](2%[iconMeleeLight]/1%[iconRangedLight])[] [iconMRpen] [colMRpen] Magic Penetration[], up to 6%. At maximum strenght this effect is doubled.##[colTitle]Void Absorption:[] While in champion combat, [colHeal]heal[] for [colHeal]6%[] of your postmitigation [colMagic]magic damage[] dealt to Champions. This effect is doubled once[colTitle] Void Corruption[] reaches maximum strenght.##[colPhys]Mythic Passive:[] Grants all other [colTitle]Legendary[] items, [iconMS][colMS]1% Move Speed[] and [iconAP] 8 Ability Power.##[i][colRules]The healing is reduced to 50% for every Champion hit, if the the damage is dealt to more than 1 Champion at a time.

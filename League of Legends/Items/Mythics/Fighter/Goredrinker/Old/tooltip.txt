@@ -1,0 +1,9 @@
+Goredrinker
+
+Fighter Sustained Fight
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAD] [colStat]35[] Attack Damage#[iconHP] [colStat]400[] Health#[iconAH] [colStat]20[] Ability Haste#[iconOmnivamp] [colStat]8%[] Omnivamp##[colGold]Thirsting Slash (Active):[] Deal [colAD]175% base[iconAD][colCrit] physical Damage[] to nearby enemies. Restore [colAD]20%[iconAD] + [colHeal]8% missing Health [] for each champion hit (15s[iconCooldown]reduced by Ability Haste).##[colTitle]Spite:[] Gain[colAD] 1-1.5[] [colTitle](Based on Level[iconXP])[colAD] bonus Attack Damage[] for every [colTitle]75-100[colTitle] (Based on Level[iconXP])[] premitigation damage taken during Champion combat, up to a maximum of[colAD] 30 bonus Attack Damage.##[colAD]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconHP][colTitle]50 Health[] and [iconAH]5 Ability Haste.##

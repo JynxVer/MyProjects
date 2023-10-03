@@ -1,0 +1,9 @@
+Luden's Echo
+
+Mage Burst
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAP] [colStat]80[] Abilty Power#[iconMRpen] [colStat]6[] Magic Penetration#[iconMP] [colStat]600[] Mana[]#[iconAH] [colStat]20[] Ability Haste##[colTitle]Tempest:[] Damaging Abilities deal additional[colMagic] Magic Damage[] equal to [colTitle]Echo[]'s full Damage to enemies near the first target, up to 2, and grant you[colMS] 15% Move Speed[] for 2 Seconds (8s[iconCooldown]).##[colTitle]Echo:[] Your damaging abilities will Echo, causing[colMagic] 10.8%[colTitle] =[] ([colMagic]10% + 1% []per [colAP]100[iconAP][]) of their[colMagic] magic damage[] dealt to be repeated by the next Damaging Ability you cast. This effect does not stack with itself and has no cooldown.##[colAD]Mythic Passive:[] Grants all other[colTitle] Legendary[] items [iconMRpen] [colTitle]5[] Magic Penetration##[i][colRules]The damage is calculated after Resistances, and is not affected by DoT dealt by items.#[i][colRules]DoT Abilities will have the first 2 seconds of activation calculated for the [colTitle]Echo[] [i][colRules]effect, and the [colTitle]Echo[][i][colRules] effect extra damage will be dealt over 3 seconds.

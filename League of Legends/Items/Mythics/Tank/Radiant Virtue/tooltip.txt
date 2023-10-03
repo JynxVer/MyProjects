@@ -1,0 +1,9 @@
+Jak'Sho,The Protean
+
+Adaptive Tank
+
+[r][iconGold][colGold]3200
+
+
+
+[iconHP] [colStat]600[] Health#[iconAR] [colStat]25[] Armor#[iconMR] [colStat]25[] Magic Resist#[iconAH] [colStat]15[] Ability Haste##[colGold]Transcendence (Active):[] Upon activating the item you Transcend, becoming a Source of [colHeal]Healing[] for allies near you. Each ally within 1200 units, will [colHeal]heal[] for [colHeal]2%[] of your[colHP] Max Health[] per second, up to a maximum of [colHP]12%[] of your[colHP] Max Health[], [colLS]Draining[] the amount [colHeal]Healed[] from your [colHP]Health[].##This effect goes on a 90s [iconCooldown] cooldown, specific to each ally, once they [colHeal]Heal[] for the maximum 12% amount##[colTitle]Ethereal Being:[] Upon Casting your ultimate, gain [colHP]15%[] [colHP]Max Health[] and delay the [colLS]Drain[] for 9s (90s[iconCooldown])[].##[i][colRules]The Drain effect will disable Warmog's Armor "Warmog's Heart" healing effect.##[i][colRules]The drain itself cannot kill the user, leaving them at 1 HP instead.

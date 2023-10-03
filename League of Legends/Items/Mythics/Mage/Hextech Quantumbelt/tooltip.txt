@@ -1,0 +1,9 @@
+Hextech Quantumbelt
+
+AP Assassin Single Target
+
+[r][iconGold][colGold]3200
+
+
+
+[iconAP] [colStat]90[] Ability Power#[iconMRpen] [colStat]5[] Magic Penetration#[iconHP] [colStat]250[] Health#[iconAH] [colStat]15[] Ability Haste##[colGold]Active: Entanglement[] Unleash an arc of marking missiles that deal no damage, but [colAS] Mark[] enemies for 3 seconds (40s[iconCooldown]).##[colGold]Active: Tunneling[], if an enemy is[colAS] Marked[] recasting the Active will blink you to their location up to 500 units away. If the target is further away you will be put at the max 500 unit travel distance between your current position and the target.##[colPhys]Mythic Passive:[] Grants all other [colTitle]Legendary[] items [iconMRpen][colStat] 5[] Magic Penetration##[i][colRules]Holding the Active key, will make [colTitle]Tunneling[][i][colRules] instantly cast upon any Missile hitting a target.#[i][colTitle]Tunneling[][i][colRules] cannot be cast if you are affected by Crowd Control, Untargetable or in stasis, or if the target is: Not visible for any reason, untargetable or in stasis.
