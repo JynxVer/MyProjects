@@ -1,0 +1,44 @@
+Kaioken (DOES NOT DARAIN HEALTH ANYMORE)
+LVL1: -0.5ki
+LVL2: -0.25ki 
+LVL3: -0ki
+
+SSJ1 
+LVL1: -1.5ki, -10% Max ki, MS:+3%
+LVL2: -1ki, -5% Max Ki, MS:+6%
+LVL3: -0.5ki, -0% Max Ki, MS:+9%
+
+SSJ2
+LVL1: -2ki, -15% Max ki, MS:+4%, +3% CritRate
+LVL2: -1.5ki, -10% Max Ki, MS:+8%, +6% CritRate
+LVL3: -1ki, -5% Max Ki, MS:+12%, +9% CritRate
+
+SSJ3
+LVL1: -3ki, -20% Max ki, MS:+5%, +4% CritRate
+LVL2: -2.5ki, -15% Max Ki, MS:+10%, +8% CritRate
+LVL3: -2ki, -10% Max Ki, MS:+15%, +12% CritRate
+
+SSJ God
+LVL1: -3ki, -20% Max ki, MS:+6%, 0.15% Healing
+LVL2: -3ki, -15% Max Ki, MS:+12%, 0.30% Healing
+LVL3: -3ki, -10% Max Ki, MS:+18%, 0.50% Healing
+
+SSJ Blue
+LVL1: -4ki, -25% Max ki, MS:+7%, 10% CritRate
+LVL2: -4ki, -20% Max Ki, MS:+14%, 20% CritRate
+LVL3: -4ki, -15% Max Ki, MS:+21%, 30% CritRate
+
+True Namekian Form 
+LVL1: -2ki, -10% Max ki, MS:+4%, 0.33% Healing
+LVL2: -1.5ki, -5% Max Ki, MS:+8%, 0.66% Healing
+LVL3: -1ki, -0% Max Ki, MS:+12%, 1% Healing
+
+Potential Unleashed
+LVL1: -3ki, -10% Max ki, MS:+9%, +8% CritRate
+LVL2: -2.5ki, -5% Max Ki, MS:+12%, +16% CritRate
+LVL3: -2ki, -0% Max Ki, MS:+15%, +24% CritRate
+
+
+
+
+
