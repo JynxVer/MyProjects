@@ -1,0 +1,16 @@
+Runic Gauntlet of Ne'Zuk
+
+Magic Damage
+
+[r][iconGold][colGold]3600
+
+
+
+[iconAP] [colTitle]80[] Ability Power#[iconHP] [colTitle]300[] Health#[iconAH] [colTitle]15[] Ability Haste##[colTitle]Mana Rune[]: Damaging an enemy with an Ability or Basic Attack refunds [colTitle](24%[iconMeleeDark]/12%[iconRangedDark])[] of your last used Basic Ability cost, doubled if the target is a Champion (2s[iconCooldown]).##[colTitle]Time Rune[]: Damaging an enemy Champion with an Ability or Basic Attack reduces your Basic Abilities current cooldown by [colTitle](1[iconMeleeDark]/[colTitle]0.5[iconRangedDark])[] seconds (2s[iconCooldown])[].
+
+rule=[i]Abilities cannot refund their own cost
+
+rule=[i][colTitle]Mana Rune []& [colTitle]Time Rune[] procs are 33% effective when triggered by Damage over Time.
+
+rule=[i]Pets and Deployables do not trigger [colTitle]Mana Rune []&[colTitle] Time Rune[]
+
