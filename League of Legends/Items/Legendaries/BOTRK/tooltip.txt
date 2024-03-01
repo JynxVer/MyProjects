@@ -1,0 +1,14 @@
+Blade of The Ruined King
+
+On-Hit
+
+[r][iconGold][colGold]3300
+
+
+
+[iconAD] [colTitle]50[] Attack Damage#[iconAS][colTitle] 35%[] Attack Speed#[iconLifeSteal] [colTitle]10%[] Lifesteal##[colTitle][b]Mist's Edge[]#Attacks apply an additional [colPhys]([iconMeleeLight][colPhys]4%|[][iconRangedDark]2%[colPhys][][colPhys]) enemy max health physical damage[] [iconOnHit][colTitle]On-Hit[].##[colTitle][b]Harrowing[]#Attacks grant you stacks, up to 4. Your [iconOnHit][colTitle]On-Hit[] effects deal [colTitle]([][iconMeleeLight][colTitle]3%[]|[iconRangedDark]2%[][colTitle])[] increased damage for each stack. [colTitle]([]Up to[][iconMeleeLight][colTitle]12%[]|[iconRangedDark]8%[][colTitle])[]
+
+rule=[i] On-Hit [iconOnHit] deals a maximum of 60 damage to non-Champions
+
+rule=[i] Item performance differs between [iconMeleeDark] Melee and [iconRangedDark] Ranged users
+
