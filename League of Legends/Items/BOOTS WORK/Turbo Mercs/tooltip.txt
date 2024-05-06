@@ -1,0 +1,12 @@
+Hydrargyrum Petricaps
+
+[r]Mercury's Treads + [colGold][iconGold]1000 ([iconGold][colGold]2000)
+
+[colLS]Unlocks at level 15
+
+
+
+[iconMR][colTitle] [b]30[] Magic Resist#[iconMS][colTitle] [b]45[] Move Speed#[iconTenacity][colTitle] [b]30%[] Tenacity##[colAS][b](Active 90s[iconCooldown])[][colTitle][b] Mercurial Cloak:[]#Become [colStatus]Unstoppable[] for 0.25 seconds.
+
+rule=[i] Mercurial Cloak cannot be activated while [colStatus]Immobilized[] or [colStatus]Suppressed[].
+

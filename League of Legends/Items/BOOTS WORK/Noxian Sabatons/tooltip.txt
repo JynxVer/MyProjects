@@ -1,0 +1,12 @@
+Heavy Sabatons
+
+[r]Plated Steelcaps + [colGold][iconGold]1000 ([iconGold][colGold]2000)
+
+[colLS]Unlocks at level 15
+
+
+
+[iconAR][colTitle] [b]35[] Armor#[iconMS][colTitle] [b]45[] Move Speed##Reduces incoming damage from Attacks by 8%.##[colTitle][b]Titanium Plating:[]#Upon entering Champion combat [colStatus]Block[] up to 2 Basic Attacks (45s[iconCooldown])
+
+rule=[i]After entering Combat, Titanium Plating[] lasts 5 seconds or until 2 Basic Attacks are blocked.
+

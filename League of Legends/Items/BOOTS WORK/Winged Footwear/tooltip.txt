@@ -1,0 +1,14 @@
+Winged Footwear
+
+[r]Boots of Swiftness + [colGold][iconGold]1000 ([iconGold][colGold]1900)
+
+[colLS]Unlocks at level 15
+
+
+
+[iconMS][colTitle] [b]45[] Move Speed##Attacking grants you [iconMeleeLight] [colTitle]30 Move Speed[] for 2 Seconds.##[colTitle][b]Swiftpace:[]#Increases the effectiveness and duration of [colTitle]Move Speed[] enhancing effects by [colTitle]15%[].
+
+rule=[i]Duration increase cannot exceed 1 second.
+
+
+

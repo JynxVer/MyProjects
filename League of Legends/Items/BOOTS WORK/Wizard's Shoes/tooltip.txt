@@ -1,0 +1,12 @@
+Wizard's Shoes
+
+[r]Sorcerer's Shoes + [iconGold][colGold]1000 ([iconGold]2100)
+
+[colLS] Unlocks at level 15
+
+
+
+[iconMRpen][colTitle] [b]25[] Magic Penetration#[iconMS][colTitle] [b]45[] Move Speed##[colTitle][b]Magical Lens:[]#For every [colAP]100[iconAP][] gain [colStatus][iconMRpen] 2% Magic Penetration[] and [colTitle][iconAH]3 Ability Haste.
+
+
+

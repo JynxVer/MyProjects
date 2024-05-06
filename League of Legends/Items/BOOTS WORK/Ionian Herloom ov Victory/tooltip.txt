@@ -1,0 +1,12 @@
+Ionian Heirloom of Victory
+
+[r]Ionian Boots + [colGold][iconGold]1000 ([iconGold]1900)
+
+[colLS]Unlocks at level 15
+
+
+
+[iconAH][colTitle] [b]20[] Ability Haste#[iconMS][colTitle] [b]45[] Move Speed##Gain 12 Summoner Spell Haste.##[colTitle][b]Enlightenment:[]#Scoring a takedown refunds 15% of your Summoner Spells remaining cooldown.##[#78612c][i]"This item is an heirloom of Ionia's hard-fought victory over Noxus at the Grand Stand Of the Placidium led by Captain Xan, on November 16th 984 AN."
+
+
+
