@@ -1,1 +1,0 @@
-To make UI work, you will need to install the DATA folder PRESENT HERE.
