@@ -1,0 +1,20 @@
+-+-N1>>>>>Normal Input = Charge Ki relatively fast (Super Armor, you can't be stunned out of the skill, but will take damage normally)
+
+N2>>>>>Normal Input + Guard = Drain you ki, but heal yourself (Stamina armor, you won't take damage, but your stamina will drain instead. You can be stamina broken out of this, similarly to Ultimate SKills.)
+
+N3>>>>>Normal Input + Dash/Boost = Charge Ki slower, but also regen stamina (Stamina armor, you won't take damage, but your stamina will drain instead. You can be stamina broken out of this, similarly to Ultimate SKills.)
+
+N4>>>>>Normal Input + Lock On = Charge Ki super fast, at the cost of 1 Stamina Bar and stamina slowly being drained (Absolute Invulnerability)
+
+ALL SKILLS WILL STUN OPPONENTS AROUND YOU, ONCE THE SKILL IS ENDED BY YOU
+
+
+Once you activate the main "Normal Input" skill (N1), you can easily swap between the other 3 stances N2/N3/N4.
+
+Example: If you want to go from N2 to N4, keep the N2 input pressed, then press N4 Input, and let got of N2 Input.
+
+You can do this as much as you want.
+
+
+
+YOU CANNOT GO BACK TO N1 UNLESS YOU FULLY RE-ACTIVATE THE SKILL.

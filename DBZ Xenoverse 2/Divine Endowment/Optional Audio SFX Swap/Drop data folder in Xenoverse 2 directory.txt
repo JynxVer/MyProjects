@@ -1,0 +1,3 @@
+Drop data folder in Xenoverse 2 directory if you want the same initial SFX as me.
+
+This is optional and the skill should work and sound just fine without it, it will just use Divinity Unleashed vanilla sound instead.
