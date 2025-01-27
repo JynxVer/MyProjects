@@ -13,6 +13,8 @@
 [Twitter](https://x.com/JynxVer)
 
 
-Unrelated: Got Grandmasters in Marvel Rivals on a rush, Ex PRO Overwatch Player kinda showing :D 
+### Unrelated Shenanigans 
+
+Got Grandmasters in Marvel Rivals on a rush, Ex PRO Overwatch Player kinda showing :D 
 
 Should probably work on Grinding some League too now, IONIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
