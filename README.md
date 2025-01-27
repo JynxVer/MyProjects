@@ -9,6 +9,7 @@
 
 ### Socials
 [Reddit](https://www.reddit.com/user/JinxVer/)
+
 [Twitter](https://x.com/JynxVer)
 
 
