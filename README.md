@@ -1,5 +1,5 @@
 ### Work Status
-
+- Updated Lesseracts Packs with Buxfixes
 - The update for version 1.23 of "Xenoverse 2 Hard Mode Rebalance" is currently in the works
 - Updating the "New Transformation Set for Lazybone XV2" is on hold until Lazybone updates the coremode
 - Working on a few item reshuffles for League, currently Luden's and Axiom Arc.
